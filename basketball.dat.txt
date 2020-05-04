@@ -1,0 +1,1706 @@
+1939 OREGON              56 TEXAS               41
+1939 OKLAHOMA            50 UTAH STATE          39
+1939 VILLANOVA           42 BROWN               30
+1939 OHIO STATE          64 WAKE FOREST         52
+1939 OREGON              55 OKLAHOMA            37
+1939 OHIO STATE          53 VILLANOVA           36
+1939 OREGON              46 OHIO STATE          33
+1940 INDIANA             48 SPRINGFIELD         24
+1940 DUQUESNE            30 WESTERN KENTUCKY    29
+1940 SOUTHERN CALIFORNIA 38 COLORADO            32
+1940 KANSAS              50 RICE                44
+1940 INDIANA             39 DUQUESNE            30
+1940 KANSAS              43 SOUTHERN CALIFORNIA 42
+1940 INDIANA             60 KANSAS              42
+1941 WISCONSIN           51 DARTMOUTH           50
+1941 PITTSBURGH          26 NORTH CAROLINA      20
+1941 ARKANSAS            52 WYOMING             40
+1941 WASHINGTON STATE    48 CREIGHTON           39
+1941 WISCONSIN           36 PITTSBURGH          30
+1941 WASHINGTON STATE    64 ARKANSAS            53
+1941 WISCONSIN           39 WASHINGTON STATE    34
+1942 DARTMOUTH           44 PENN STATE          39
+1942 KENTUCKY            46 ILLINOIS            44
+1942 STANFORD            53 RICE                47
+1942 COLORADO            46 KANSAS              44
+1942 DARTMOUTH           48 KENTUCKY            28
+1942 STANFORD            46 COLORADO            35
+1942 STANFORD            53 DARTMOUTH           38
+1943 GEORGETOWN          55 NYU                 36
+1943 DEPAUL              46 DARTMOUTH           35
+1943 TEXAS               59 WASHINGTON          55
+1943 WYOMING             53 OKLAHOMA            50
+1943 GEORGETOWN          53 DEPAUL              49
+1943 WYOMING             58 TEXAS               54
+1943 WYOMING             46 GEORGETOWN          34
+1944 DARTMOUTH           63 CATHOLIC            38
+1944 OHIO STATE          57 TEMPLE              47
+1944 IOWA STATE          44 PEPPERDINE          39
+1944 UTAH                45 MISSOURI            35
+1944 DARTMOUTH           60 OHIO STATE          53
+1944 UTAH                40 IOWA STATE          31
+1944 UTAH                42 DARTMOUTH           40
+1945 NYU                 59 TUFTS               44
+1945 OHIO STATE          45 KENTUCKY            37
+1945 ARKANSAS            79 OREGON              76
+1945 OKLAHOMA STATE      62 UTAH                37
+1945 NYU                 70 OHIO STATE          65
+1945 OKLAHOMA STATE      68 ARKANSAS            41
+1945 OKLAHOMA STATE      49 NYU                 45
+1946 OHIO STATE          46 HARVARD             38
+1946 NORTH CAROLINA      57 NYU                 49
+1946 OKLAHOMA STATE      44 BAYLOR              29
+1946 CALIFORNIA          50 COLORADO            44
+1946 NORTH CAROLINA      60 OHIO STATE          57
+1946 OKLAHOMA STATE      52 CALIFORNIA          35
+1946 OKLAHOMA STATE      43 NORTH CAROLINA      40
+1947 HOLY CROSS          55 NAVY                47
+1947 CCNY                70 WISCONSIN           56
+1947 TEXAS               42 WYOMING             40
+1947 OKLAHOMA            56 OREGON STATE        54
+1947 HOLY CROSS          60 CCNY                45
+1947 OKLAHOMA            55 TEXAS               54
+1947 HOLY CROSS          58 OKLAHOMA            47
+1948 KENTUCKY            76 COLUMBIA            53
+1948 HOLY CROSS          63 MICHIGAN            45
+1948 KANSAS STATE        58 WYOMING             48
+1948 BAYLOR              64 WASHINGTON          62
+1948 KENTUCKY            60 HOLY CROSS          52
+1948 BAYLOR              60 KANSAS STATE        52
+1948 KENTUCKY            58 BAYLOR              42
+1949 ILLINOIS            71 YALE                67
+1949 KENTUCKY            85 VILLANOVA           72
+1949 OKLAHOMA STATE      40 WYOMING             39
+1949 OREGON STATE        56 ARKANSAS            38
+1949 KENTUCKY            76 ILLINOIS            47
+1949 OKLAHOMA STATE      55 OREGON STATE        30
+1949 KENTUCKY            46 OKLAHOMA STATE      36
+1950 CCNY                56 OHIO STATE          55
+1950 N. CAROLINA STATE   87 HOLY CROSS          74
+1950 BAYLOR              56 BRIGHAM YOUNG       55
+1950 BRADLEY             73 UCLA                59
+1950 CCNY                78 N. CAROLINA STATE   73
+1950 BRADLEY             68 BAYLOR              66
+1950 CCNY                71 BRADLEY             68
+1951 KANSAS STATE        61 ARIZONA             59
+1951 BRIGHAM YOUNG       68 SAN JOSE STATE      61
+1951 OKLAHOMA STATE      50 MONTANA STATE       46
+1951 WASHINGTON          62 TEXAS A&M           40
+1951 ILLINOIS            79 COLUMBIA            71
+1951 N. CAROLINA STATE   67 VILLANOVA           62
+1951 KENTUCKY            79 LOUISVILLE          68
+1951 ST. JOHN'S          63 CONNECTICUT         52
+1951 KANSAS STATE        64 BRIGHAM YOUNG       54
+1951 OKLAHOMA STATE      61 WASHINGTON          57
+1951 ILLINOIS            84 N. CAROLINA STATE   70
+1951 KENTUCKY            59 ST. JOHN'S          43
+1951 KANSAS STATE        68 OKLAHOMA STATE      44
+1951 KENTUCKY            76 ILLINOIS            74
+1951 KENTUCKY            68 KANSAS STATE        58
+1952 KENTUCKY            82 PENN STATE          54
+1952 ST. JOHN'S          60 N. CAROLINA STATE   49
+1952 ILLINOIS            80 DAYTON              61
+1952 DUQUESNE            60 PRINCETON           49
+1952 KANSAS              68 TCU                 64
+1952 ST. LOUIS           62 NEW MEXICO STATE    53
+1952 SANTA CLARA         68 UCLA                59
+1952 WYOMING             54 OKLAHOMA CITY       48
+1952 ST. JOHN'S          64 KENTUCKY            57
+1952 ILLINOIS            74 DUQUESNE            68
+1952 KANSAS              74 ST. LOUIS           55
+1952 SANTA CLARA         56 WYOMING             53
+1952 ST. JOHN'S          61 ILLINOIS            59
+1952 KANSAS              74 SANTA CLARA         55
+1952 KANSAS              80 ST. JOHN'S          63
+1953 LEBANON VALLEY      80 FORDHAM             67
+1953 HOLY CROSS          87 NAVY                74
+1953 NOTRE DAME          72 EASTERN KENTUCKY    57
+1953 DEPAUL              74 MIAMI(OHIO)         72
+1953 SEATTLE             88 IDAHO STATE         77
+1953 SANTA CLARA         81 HARDIN-SIMMONS      56
+1953 LSU                 89 LEBANON VALLEY      76
+1953 HOLY CROSS          79 WAKE FOREST         71
+1953 NOTRE DAME          69 PENNSYLVANIA        57
+1953 INDIANA             82 DEPAUL              80
+1953 WASHINGTON          92 SEATTLE             70
+1953 SANTA CLARA         67 WYOMING             52
+1953 OKLAHOMA STATE      71 TCU                 54
+1953 KANSAS              73 OKLAHOMA CITY       65
+1953 LSU                 81 HOLY CROSS          73
+1953 INDIANA             79 NOTRE DAME          66
+1953 WASHINGTON          74 SANTA CLARA         62
+1953 KANSAS              61 OKLAHOMA STATE      55
+1953 INDIANA             80 LSU                 67
+1953 KANSAS              79 WASHINGTON          53
+1953 INDIANA             69 KANSAS              68
+1954 PENN STATE          62 TOLEDO              50
+1954 NOTRE DAME          80 LOYOLA(N.O.)        70
+1954 NAVY                85 CONNECTICUT         80
+1954 N. CAROLINA STATE   75 GEORGE WASHINGTON   73
+1954 LASALLE             76 FORDHAM             74
+1954 BRADLEY             61 OKLAHOMA CITY       55
+1954 IDAHO STATE         77 SEATTLE             75
+1954 SANTA CLARA         73 TEXAS TECH          64
+1954 PENN STATE          78 LSU                 70
+1954 NOTRE DAME          65 INDIANA             64
+1954 NAVY                69 CORNELL             67
+1954 LASALLE             88 N. CAROLINA STATE   81
+1954 BRADLEY             76 COLORADO            64
+1954 OKLAHOMA STATE      51 RICE                45
+1954 SOUTHERN CALIFORNIA 73 IDAHO STATE         59
+1954 SANTA CLARA         73 COLORADO STATE      50
+1954 PENN STATE          71 NOTRE DAME          63
+1954 LASALLE             64 NAVY                48
+1954 BRADLEY             71 OKLAHOMA STATE      57
+1954 SOUTHERN CALIFORNIA 66 SANTA CLARA         65
+1954 LASALLE             69 PENN STATE          54
+1954 BRADLEY             74 SOUTHERN CALIFORNIA 72
+1954 LASALLE             92 BRADLEY             76
+1955 MARQUETTE           90 MIAMI(OHIO)         79
+1955 PENN STATE          59 MEMPHIS STATE       55
+1955 LASALLE             95 WEST VIRGINIA       61
+1955 CANISIUS            73 WILLIAMS            60
+1955 VILLANOVA           74 DUKE                73
+1955 BRADLEY             69 OKLAHOMA CITY       65
+1955 SEATTLE             80 IDAHO STATE         63
+1955 SAN FRANCISCO       89 WEST TEXAS STATE    66
+1955 MARQUETTE           79 KENTUCKY            71
+1955 IOWA                82 PENN STATE          53
+1955 LASALLE             73 PRINCETON           46
+1955 CANISIUS            73 VILLANOVA           71
+1955 BRADLEY             81 SMU                 79
+1955 COLORADO            69 TULSA               59
+1955 OREGON STATE        83 SEATTLE             71
+1955 SAN FRANCISCO       78 UTAH                59
+1955 IOWA                86 MARQUETTE           81
+1955 LASALLE             99 CANISIUS            64
+1955 COLORADO            93 BRADLEY             81
+1955 SAN FRANCISCO       57 OREGON STATE        56
+1955 LASALLE             76 IOWA                73
+1955 SAN FRANCISCO       62 COLORADO            50
+1955 SAN FRANCISCO       77 LASALLE             63
+1956 CONNECTICUT         84 MANHATTAN           75
+1956 TEMPLE              74 HOLY CROSS          72
+1956 DARTMOUTH           61 WEST VIRGINIA       59
+1956 CANISIUS            79 N. CAROLINA STATE   78
+1956 MOREHEAD STATE     107 MARSHALL            92
+1956 WAYNE STATE         72 DEPAUL              63
+1956 SMU                 68 TEXAS TECH          67
+1956 OKLAHOMA CITY       97 MEMPHIS STATE       81
+1956 SEATTLE             68 IDAHO STATE         66
+1956 TEMPLE              65 CONNECTICUT         59
+1956 CANISIUS            66 DARTMOUTH           58
+1956 IOWA                97 MOREHEAD STATE      83
+1956 KENTUCKY            84 WAYNE STATE         64
+1956 SMU                 89 HOUSTON             74
+1956 OKLAHOMA CITY       97 KANSAS STATE        93
+1956 UTAH                81 SEATTLE             72
+1956 SAN FRANCISCO       72 UCLA                61
+1956 TEMPLE              60 CANISIUS            58
+1956 IOWA                89 KENTUCKY            77
+1956 SMU                 84 OKLAHOMA CITY       63
+1956 SAN FRANCISCO       92 UTAH                77
+1956 IOWA                83 TEMPLE              76
+1956 SAN FRANCISCO       86 SMU                 68
+1956 SAN FRANCISCO       83 IOWA                71
+1957 SYRACUSE            82 CONNECTICUT         76
+1957 CANISIUS            64 WEST VIRGINIA       56
+1957 NORTH CAROLINA      90 YALE                74
+1957 PITTSBURGH          86 MOREHEAD STATE      85
+1957 NOTRE DAME          89 MIAMI(OHIO)         77
+1957 OKLAHOMA CITY       76 LOYOLA(N.O.)        55
+1957 IDAHO STATE         68 HARDIN-SIMMONS      57
+1957 SYRACUSE            75 LAFAYETTE           71
+1957 NORTH CAROLINA      87 CANISIUS            75
+1957 KENTUCKY            98 PITTSBURGH          92
+1957 MICHIGAN STATE      85 NOTRE DAME          83
+1957 OKLAHOMA CITY       75 ST. LOUIS           66
+1957 KANSAS              73 SMU                 65
+1957 CALIFORNIA          86 BRIGHAM YOUNG       59
+1957 SAN FRANCISCO       66 IDAHO STATE         51
+1957 NORTH CAROLINA      67 SYRACUSE            58
+1957 MICHIGAN STATE      80 KENTUCKY            68
+1957 KANSAS              81 OKLAHOMA CITY       61
+1957 SAN FRANCISCO       50 CALIFORNIA          46
+1957 NORTH CAROLINA      74 MICHIGAN STATE      70
+1957 KANSAS              80 SAN FRANCISCO       56
+1957 MORTH CAROLINA      54 KANSAS              53
+1958 MARYLAND            86 BOSTON COLLEGE      63
+1958 MANHATTAN           89 WEST VIRGINIA       84
+1958 DARTMOUTH           75 CONNECTICUT         64
+1958 MIAMI(OHIO)         82 PITTSBURGH          77
+1958 NOTRE DAME          94 TENNESSEE TECH      61
+1958 OKLAHOMA STATE      59 LOYOLA(N.O.)        42
+1958 SEATTLE             88 WYOMING             51
+1958 IDAHO STATE         72 ARIZONA STATE       68
+1958 TEMPLE              71 MARYLAND            67
+1958 DARTMOUTH           79 MANHATTAN           62
+1958 KENTUCKY            94 MIAMI(OHIO)         70
+1958 NOTRE DAME          94 INDIANA             87
+1958 OKLAHOMA STATE      65 ARKANSAS            40
+1958 KANSAS STATE        83 CINCINNATI          80
+1958 SEATTLE             69 SAN FRANCISCO       67
+1958 CALIFORNIA          54 IDAHO STATE         43
+1958 TEMPLE              69 DARTMOUTH           50
+1958 KENTUCKY            89 NOTRE DAME          56
+1958 KANSAS STATE        69 OKLAHOMA STATE      57
+1958 SEATTLE             66 CALIFORNIA          62
+1958 KENTUCKY            61 TEMPLE              60
+1958 SEATTLE             73 KANSAS STATE        51
+1958 KENTUCKY            84 SEATTLE             72
+1959 WEST VIRGINIA       82 DARTMOUTH           68
+1959 BOSTON UNIVERSITY   60 CONNECTICUT         58
+1959 NAVY                76 NORTH CAROLINA      63
+1959 LOUISVILLE          77 EASTERN KENTUCKY    63
+1959 MARQUETTE           89 BOWLING GREEN       71
+1959 DEPAUL              57 PORTLAND            56
+1959 IDAHO STATE         62 NEW MEXICO STATE    61
+1959 WEST VIRGINIA       95 ST. JOSEPH'S        92
+1959 BOSTON UNIVERSITY   62 NAVY                55
+1959 LOUISVILLE          76 KENTUCKY            61
+1959 MICHIGAN STATE      74 MARQUETTE           69
+1959 KANSAS STATE       102 DEPAUL              70
+1959 CINCINNATI          77 TCU                 73
+1959 ST. MARY'S          80 IDAHO STATE         71
+1959 CALIFORNIA          71 UTAH                53
+1959 WEST VIRGINIA       86 BOSTON UNIVERSITY   82
+1959 LOUISVILLE          88 MICHIGAN STATE      81
+1959 CINCINNATI          85 KANSAS STATE        75
+1959 CALIFORNIA          66 ST. MARY'S          46
+1959 WEST VIRGINIA       94 LOUISVILLE          79
+1959 CALIFORNIA          64 CINCINNATI          58
+1959 CALIFORNIA          71 WEST VIRGINIA       70
+1960 DUKE                84 PRINCETON           60
+1960 WEST VIRGINIA       94 NAVY                86
+1960 NYU                 78 CONNECTICUT         59
+1960 OHIO                74 NOTRE DAME          66
+1960 WESTERN KENTUCKY   107 MIAMI(FLA)          84
+1960 DEPAUL              69 AIR FORCE           63
+1960 CALIFORNIA          71 IDAHO STATE         44
+1960 OREGON              68 NEW MEXICO STATE    60
+1960 UTAH                80 SOUTHERN CALIFORNIA 73
+1960 DUKE                58 ST. JOSEPH'S        56
+1960 NYU                 82 WEST VIRGINIA       81
+1960 GEORGIA TECH        57 OHIO                54
+1960 OHIO STATE          98 WESTERN KENTUCKY    79
+1960 CINCINNATI          99 DEPAUL              59
+1960 KANSAS              90 TEXAS               81
+1960 CALIFORNIA          69 SANTA CLARA         49
+1960 OREGON              65 UTAH                54
+1960 NYU                 74 DUKE                59
+1960 OHIO STATE          86 GEORGIA TECH        69
+1960 CINCINNATI          82 KANSAS              71
+1960 CALIFORNIA          70 OREGON              49
+1960 OHIO STATE          76 NYU                 54
+1960 CALIFORNIA          77 CINCINNATI          69
+1960 OHIO STATE          75 CALIFORNIA          55
+1961 PRINCETON           84 GEORGE WASHINGTON   67
+1961 ST. BONAVENTURE     86 RHODE ISLAND        76
+1961 WAKE FOREST         97 ST. JOHN'S          74
+1961 LOUISVILLE          76 OHIO                70
+1961 MOREHEAD STATE      71 XAVIER(OHIO)        66
+1961 HOUSTON             77 MARQUETTE           61
+1961 ARIZONA STATE       72 SEATTLE             70
+1961 SOUTHERN CALIFORNIA 81 OREGON              79
+1961 ST. JOSEPH'S        72 PRINCETON           67
+1961 WAKE FOREST         78 ST. BONAVENTURE     73
+1961 OHIO STATE          56 LOUISVILLE          55
+1961 KENTUCKY            71 MOREHEAD STATE      64
+1961 KANSAS STATE        75 HOUSTON             64
+1961 CINCINNATI          78 TEXAS TECH          55
+1961 ARIZONA STATE       86 SOUTHERN CALIFORNIA 71
+1961 UTAH                91 LOYOLA-MARYMOUNT    75
+1961 ST. JOSEPH'S        96 WAKE FOREST         86
+1961 OHIO STATE          87 KENTUCKY            74
+1961 CINCINNATI          69 KANSAS STATE        64
+1961 UTAH                88 ARIZONA STATE       80
+1961 OHIO STATE          95 ST. JOSEPH'S        69
+1961 CINCINNATI          82 UTAH                67
+1961 CINCINNATI          70 OHIO STATE          65
+1962 WAKE FOREST         92 YALE                82
+1962 NYU                 70 MASSACHUSETTS       50
+1962 VILLANOVA           90 WEST VIRGINIA       75
+1962 BUTLER              56 BOWLING GREEN       55
+1962 WESTERN KENTUCKY    90 DETROIT             81
+1962 TEXAS TECH          68 AIR FORCE           66
+1962 CREIGHTON           87 MEMPHIS STATE       83
+1962 OREGON STATE        69 SEATTLE             65
+1962 UTAH STATE          78 ARIZONA STATE       73
+1962 WAKE FOREST         96 ST. JOSEPH'S        85
+1962 VILLANOVA           79 NYU                 76
+1962 KENTUCKY            81 BUTLER              60
+1962 OHIO STATE          93 WESTERN KENTUCKY    73
+1962 COLORADO            67 TEXAS TECH          60
+1962 CINCINNATI          66 CREIGHTON           46
+1962 OREGON STATE        69 PEPPERDINE          67
+1962 UCLA                73 UTAH STATE          62
+1962 WAKE FOREST         79 VILLANOVA           69
+1962 OHIO STATE          74 KENTUCKY            64
+1962 CINCINNATI          73 COLORADO            46
+1962 UCLA                88 OREGON STATE        69
+1962 OHIO STATE          84 WAKE FOREST         68
+1962 CINCINNATI          72 UCLA                70
+1962 CINCINNATI          71 OHIO STATE          59
+1963 NYU                 93 PITTSBURGH          83
+1963 WEST VIRGINIA       77 CONNECTICUT         71
+1963 ST. JOSEPH'S        82 PRINCETON           81
+1963 BOWLING GREEN       77 NOTRE DAME          72
+1963 LOYOLA-CHICAGO     111 TENNESSEE TECH      42
+1963 OKLAHOMA CITY       70 COLORADO STATE      67
+1963 TEXAS               64 TEXAS-EL PASO       47
+1963 ARIZONA STATE       79 UTAH STATE          75
+1963 OREGON STATE        70 SEATTLE             67
+1963 DUKE                81 NYU                 76
+1963 ST. JOSEPH'S        97 WEST VIRGINIA       88
+1963 ILLINOIS            70 BOWLING GREEN       67
+1963 LOYOLA-CHICAGO      61 MISSISSIPPI STATE   51
+1963 COLORADO            78 OKLAHOMA CITY       72
+1963 CINCINNATI          73 TEXAS               68
+1963 ARIZONA STATE       93 UCLA                79
+1963 OREGON STATE        65 SAN FRANCISCO       61
+1963 DUKE                73 ST. JOSEPH'S        59
+1963 LOYOLA-CHICAGO      79 ILLINOIS            64
+1963 CINCINNATI          67 COLORADO            60
+1963 OREGON STATE        83 ARIZONA STATE       65
+1963 LOYOLA-CHICAGO      94 DUKE                75
+1963 CINCINNATI          80 OREGON STATE        46
+1963 LOYOLA-CHICAGO      60 CINCINNATI          58
+1964 VILLANOVA           77 PROVIDENCE          66
+1964 CONNECTICUT         53 TEMPLE              48
+1964 PRINCETON           86 VMI                 60
+1964 OHIO                71 LOUISVILLE          69
+1964 LOYOLA-CHICAGO     101 MURRAY STATE        91
+1964 CREIGHTON           89 OKLAHOMA CITY       78
+1964 TEXAS-EL PASO       68 TEXAS A&M           62
+1964 SEATTLE             61 OREGON STATE        57
+1964 UTAH STATE          92 ARIZONA STATE       90
+1964 DUKE                87 VILLANOVA           73
+1964 CONNECTICUT         52 PRINCETON           50
+1964 OHIO                85 KENTUCKY            69
+1964 MICHIGAN            84 LOYOLA-CHICAGO      80
+1964 WICHITA STATE       84 CREIGHTON           68
+1964 KANSAS STATE        64 TEXAS-EL PASO       60
+1964 UCLA                95 SEATTLE             90
+1964 SAN FRANCISCO       64 UTAH STATE          58
+1964 DUKE               101 CONNECTICUT         54
+1964 MICHIGAN            69 OHIO                57
+1964 KANSAS STATE        94 WICHITA STATE       86
+1964 UCLA                76 SAN FRANCISCO       72
+1964 DUKE                91 MICHIGAN            80
+1964 UCLA                90 KANSAS STATE        84
+1964 UCLA                98 DUKE                83
+1965 PRINCETON           60 PENN STATE          58
+1965 ST. JOSEPH'S        67 CONNECTICUT         61
+1965 DAYTON              66 OHIO                65
+1965 DEPAUL              99 EASTERN KENTUCKY    52
+1965 HOUSTON             99 NOTRE DAME          98
+1965 OKLAHOMA CITY       70 COLORADO STATE      68
+1965 PRINCETON           66 N. CAROLINA STATE   48
+1965 PROVIDENCE          81 ST. JOSEPH'S        73
+1965 MICHIGAN            98 DAYTON              71
+1965 VANDERBILT          83 DEPAUL              78
+1965 OKLAHOMA STATE      75 HOUSTON             60
+1965 WICHITA STATE       86 SMU                 81
+1965 SAN FRANCISCO       91 OKLAHOMA CITY       67
+1965 UCLA               100 BRIGHAM YOUNG       76
+1965 PRINCETON          109 PROVIDENCE          69
+1965 MICHIGAN            87 VANDERBILT          85
+1965 WICHITA STATE       54 OKLAHOMA STATE      46
+1965 UCLA               101 SAN FRANCISCO       93
+1965 MICHIGAN            93 PRINCETON           76
+1965 UCLA               108 WICHITA STATE       89
+1965 UCLA                91 MICHIGAN            80
+1966 ST. JOSEPH'S        65 PROVIDENCE          48
+1966 DAVIDSON            95 RHODE ISLAND        65
+1966 DAYTON              58 MIAMI(OHIO)         51
+1966 WESTERN KENTUCKY   105 LOYOLA-CHICAGO      86
+1966 TEXAS-EL PASO       89 OKLAHOMA CITY       74
+1966 HOUSTON             82 COLORADO STATE      76
+1966 DUKE                76 ST. JOSEPH'S        74
+1966 SYRACUSE            94 DAVIDSON            78
+1966 KENTUCKY            86 DAYTON              79
+1966 MICHIGAN            80 WESTERN KENTUCKY    79
+1966 TEXAS-EL PASO       78 CINCINNATI          76
+1966 KANSAS              76 SMU                 70
+1966 OREGON STATE        63 HOUSTON             60
+1966 UTAH                83 PACIFIC             74
+1966 DUKE                91 SYRACUSE            81
+1966 KENTUCKY            84 MICHIGAN            77
+1966 TEXAS-EL PASO       81 KANSAS              80
+1966 UTAH                70 OREGON STATE        64
+1966 KENTUCKY            83 DUKE                79
+1966 TEXAS-EL PASO       85 UTAH                78
+1966 TEXAS-EL PASO       72 KENTUCKY            65
+1967 PRINCETON           68 WEST VIRGINIA       57
+1967 ST. JOHN'S          57 TEMPLE              53
+1967 BOSTON COLLEGE      48 CONNECTICUT         42
+1967 DAYTON              69 WESTERN KENTUCKY    67
+1967 VIRGINIA TECH       82 TOLEDO              76
+1967 HOUSTON             59 NEW MEXICO STATE    58
+1967 TEXAS-EL PASO       62 SEATTLE             54
+1967 NORTH CAROLINA      78 PRINCETON           70
+1967 BOSTON COLLEGE      63 ST. JOHN'S          62
+1967 DAYTON              53 TENNESSEE           52
+1967 VIRGINIA TECH       79 INDIANA             70
+1967 HOUSTON             66 KANSAS              53
+1967 SMU                 83 LOUISVILLE          81
+1967 PACIFIC             72 TEXAS-EL PASO       63
+1967 UCLA               109 WYOMING             60
+1967 NORTH CAROLINA      96 BOSTON COLLEGE      80
+1967 DAYTON              71 VIRGINIA TECH       66
+1967 HOUSTON             83 SMU                 75
+1967 UCLA                80 PACIFIC             64
+1967 DAYTON              76 NORTH CAROLINA      62
+1967 UCLA                73 HOUSTON             58
+1967 UCLA                79 DAYTON              64
+1968 ST. BONAVENTURE    102 BOSTON COLLEGE      93
+1968 DAVIDSON            79 ST. JOHN'S          70
+1968 COLUMBIA            83 LASALLE             69
+1968 E. TENNESSEE STATE  79 FLORIDA STATE       69
+1968 MARQUETTE           72 BOWLING GREEN       71
+1968 HOUSTON             94 LOYOLA-CHICAGO      76
+1968 NEW MEXICO STATE    68 WEBER STATE         57
+1968 NORTH CAROLINA      91 ST. BONAVENTURE     72
+1968 DAVIDSON            61 COLUMBIA            59
+1968 OHIO STATE          79 E. TENNESSEE STATE  72
+1968 KENTUCKY           107 MARQUETTE           89
+1968 HOUSTON             91 LOUISVILLE          75
+1968 TCU                 77 KANSAS STATE        72
+1968 UCLA                58 NEW MEXICO STATE    49
+1968 SANTA CLARA         86 NEW MEXICO          73
+1968 NORTH CAROLINA      70 DAVIDSON            66
+1968 OHIO STATE          82 KENTUCKY            81
+1968 HOUSTON            103 TCU                 68
+1968 UCLA                87 SANTA CLARA         66
+1968 NORTH CAROLINA      80 OHIO STATE          66
+1968 UCLA               101 HOUSTON             69
+1968 UCLA                78 NORTH CAROLINA      55
+1969 DUQUESNE            74 ST. JOSEPH'S        52
+1969 DAVIDSON            75 VILLANOVA           61
+1969 ST. JOHN'S          72 PRINCETON           63
+1969 MIAMI(OHIO)         63 NOTRE DAME          60
+1969 MARQUETTE           82 MURRAY STATE        62
+1969 TEXAS A&M           81 TRINITY             66
+1969 COLORADO STATE      52 DAYTON              50
+1969 NEW MEXICO STATE    74 BRIGHAM YOUNG       62
+1969 WEBER STATE         75 SEATTLE             73
+1969 NORTH CAROLINA      79 DUQUESNE            78
+1969 DAVIDSON            79 ST. JOHN'S          69
+1969 PURDUE              91 MIAMI(OHIO)         71
+1969 MARQUETTE           81 KENTUCKY            74
+1969 DRAKE               81 TEXAS A&M           63
+1969 COLORADO STATE      64 COLORADO            56
+1969 UCLA                53 NEW MEXICO STATE    38
+1969 SANTA CLARA         63 WEBER STATE         59
+1969 NORTH CAROLINA      87 DAVIDSON            85
+1969 PURDUE              75 MARQUETTE           73
+1969 DRAKE               84 COLORADO STATE      77
+1969 UCLA                90 SANTA CLARA         52
+1969 PURDUE              92 NORTH CAROLINA      65
+1969 UCLA                85 DRAKE               82
+1969 UCLA                92 PURDUE              72
+1970 ST. BONAVENTURE     85 DAVIDSON            72
+1970 VILLANOVA           77 TEMPLE              69
+1970 NIAGARA             79 PENNSYLVANIA        69
+1970 JACKSONVILLE       109 WESTERN KENTUCKY    96
+1970 NOTRE DAME         112 OHIO                82
+1970 NEW MEXICO         101 RICE                77
+1970 HOUSTON             71 DAYTON              64
+1970 LONG BEACH STATE    92 WEBER STATE         73
+1970 UTAH STATE          91 TEXAS-EL PASO       81
+1970 ST. BONAVENTURE     80 N. CAROLINA STATE   68
+1970 VILLANOVA           98 NIAGARA             73
+1970 JACKSONVILLE       104 IOWA               103
+1970 KENTUCKY           109 NOTRE DAME          99
+1970 NEW MEXICO          70 KANSAS STATE        66
+1970 DRAKE               92 HOUSTON             87
+1970 UCLA                88 LONG BEACH STATE    65
+1970 UTAH STATE          69 SANTA CLARA         68
+1970 ST. BONAVENTURE     97 VILLANOVA           74
+1970 JACKSONVILLE       106 KENTUCKY           100
+1970 NEW MEXICO          87 DRAKE               78
+1970 UCLA               101 UTAH STATE          79
+1970 JACKSONVILLE        91 ST. BONAVENTURE     83
+1970 UCLA                93 NEW MEXICO          77
+1970 UCLA                80 JACKSONVILLE        69
+1971 VILLANOVA           93 ST. JOSEPH'S        75
+1971 FORDHAM            105 FURMAN              74
+1971 PENNSYLVANIA        70 DUQUESNE            65
+1971 WESTERN KENTUCKY    74 JACKSONVILLE        72
+1971 MARQUETTE           62 MIAMI(OHIO)         47
+1971 HOUSTON             72 NEW MEXICO STATE    69
+1971 NOTRE DAME         102 TCU                 94
+1971 BRIGHAM YOUNG       91 UTAH STATE          82
+1971 LONG BEACH STATE    77 WEBER STATE         66
+1971 VILLANOVA           85 FORDHAM             75
+1971 PENNSYLVANIA        79 SOUTH CAROLINA      64
+1971 WESTEN KENTUCKY    107 KENTUCKY            83
+1971 OHIO STATE          60 MARQUETTE           59
+1971 KANSAS              78 HOUSTON             77
+1971 DRAKE               79 NOTRE DAME          72
+1971 UCLA                91 BRIGHAM YOUNG       73
+1971 LONG BEACH STATE    78 PACIFIC             65
+1971 VILLANOVA           90 PENNSYLVANIA        47
+1971 WESTERN KENTUCKY    81 OHIO STATE          78
+1971 KANSAS              73 DRAKE               71
+1971 UCLA                57 LONG BEACH STATE    55
+1971 VILLANOVA           92 WESTERN KENTUCKY    89
+1971 UCLA                68 KANSAS              60
+1971 UCLA                68 VILLANOVA           62
+1972 FLORIDA STATE       83 EASTERN KENTUCKY    81
+1972 MARQUETTE           73 OHIO                49
+1972 SOUTH CAROLINA      53 TEMPLE              51
+1972 PENNSYLVANIA        76 PROVIDENCE          60
+1972 VILLANOVA           85 EAST CAROLINA       70
+1972 SW LOUISIANA       112 MARSHALL           101
+1972 TEXAS               85 HOUSTON             74
+1972 WEBER STATE         91 HAWAII              64
+1972 LONG BEACH STATE    95 BRIGHAM YOUNG       90
+1972 FLORIDA STATE       70 MINNESOTA           56
+1972 KENTUCKY            85 MARQUETTE           69
+1972 NORTH CAROLINA      92 SOUTH CAROLINA      69
+1972 PENNSYLVANIA        78 VILLANOVA           67
+1972 LOUISVILLE          88 SW LOUISIANA        84
+1972 KANSAS STATE        66 TEXAS               55
+1972 UCLA                90 WEBER STATE         58
+1972 LONG BEACH STATE    75 SAN FRANCISCO       55
+1972 FLORIDA STATE       73 KENTUCKY            54
+1972 NORTH CAROLINA      73 PENNSYLVANIA        59
+1972 LOUISVILLE          72 KANSAS STATE        65
+1972 UCLA                73 LONG BEACH STATE    57
+1972 FLORIDA STATE       79 NORTH CAROLINA      75
+1972 UCLA                96 LOUISVILLE          77
+1972 UCLA                81 FLORIDA STATE       76
+1973 SOUTH CAROLINA      78 TEXAS TECH          70
+1973 SW LOUISIANA       102 HOUSTON             89
+1973 PROVIDENCE          89 ST. JOSEPH'S        76
+1973 PENNSYLVANIA        62 ST. JOHN'S          61
+1973 SYRACUSE            83 FURMAN              82
+1973 MARQUETTE           77 MIAMI(OHIO)         62
+1973 AUSTIN PEAY         77 JACKSONVILLE        75
+1973 ARIZONA STATE      103 OKLAHOMA CITY       78
+1973 LONG BEACH STATE    88 WEBER STATE         75
+1973 MEMPHIS STATE       90 SOUTH CAROLINA      76
+1973 KANSAS STATE        66 SW LOUISIANA        63
+1973 PROVIDENCE          87 PENNSYLVANIA        65
+1973 MARYLAND            91 SYRACUSE            75
+1973 INDIANA             75 MARQUETTE           69
+1973 KENTUCKY           106 AUSTIN PEAY        100
+1973 UCLA                98 ARIZONA STATE       81
+1973 SAN FRANCISCO       77 LONG BEACH STATE    67
+1973 MEMPHIS STATE       92 KANSAS STATE        72
+1973 PROVIDENCE         103 MARYLAND            89
+1973 INDIANA             72 KENTUCKY            65
+1973 UCLA                54 SAN FRANCISCO       39
+1973 MEMPHIS STATE       98 PROVIDENCE          85
+1973 UCLA                70 INDIANA             59
+1973 UCLA                87 MEMPHIS STATE       66
+1974 PROVIDENCE          84 PENNSYLVANIA        69
+1974 PITTSBURGH          54 ST. JOSEPH'S        42
+1974 FURMAN              75 SOUTH CAROLINA      67
+1974 DAYTON              88 CAL STATE-LA        80
+1974 NEW MEXICO          73 IDAHO STATE         65
+1974 MARQUETTE           85 OHIO                59
+1974 NOTRE DAME         108 AUSTIN PEAY         66
+1974 CREIGHTON           77 TEXAS               61
+1974 ORAL ROBERTS        86 SYRACUSE            82
+1974 N. CAROLINA STATE   92 PROVIDENCE          78
+1974 PITTSBURGH          81 FURMAN              78
+1974 UCLA               111 DAYTON             100
+1974 SAN FRANCISCO       64 NEW MEXICO          61
+1974 MARQUETTE           69 VANDERBILT          61
+1974 MICHIGAN            77 NOTRE DAME          68
+1974 KANSAS              55 CREIGHTON           54
+1974 ORAL ROBERTS        96 LOUISVILLE          93
+1974 N. CAROLINA STATE  100 PITTSBURGH          72
+1974 UCLA                83 SAN FRANCISCO       60
+1974 MARQUETTE           72 MICHIGAN            70
+1974 KANSAS              93 ORAL ROBERTS        90
+1974 N. CAROLINA STATE   80 UCLA                77
+1974 MARQUETTE           64 KANSAS              51
+1974 N. CAROLINA STATE   76 MARQUETTE           64
+1975 UCLA               103 MICHIGAN            91
+1975 MONTANA             69 UTAH STATE          63
+1975 ARIZONA STATE       97 ALABAMA             94
+1975 UNLV                90 SAN DIEGO STATE     80
+1975 MARYLAND            83 CREIGHTON           79
+1975 NOTRE DAME          77 KANSAS              71
+1975 CINCINNATI          87 TEXAS A&M           79
+1975 LOUISVILLE          91 RUTGERS             78
+1975 SYRACUSE            87 LASALLE             83
+1975 NORTH CAROLINA      93 NEW MEXICO STATE    69
+1975 KANSAS STATE        69 PENNSYLVANIA        62
+1975 BOSTON COLLEGE      82 FURMAN              76
+1975 INDIANA             78 TEXAS-EL PASO       53
+1975 OREGON STATE        78 M. TENNESSEE STATE  67
+1975 CENTRAL MICHIGAN    77 GEORGETOWN          75
+1975 KENTUCKY            76 MARQUETTE           64
+1975 UCLA                67 MONTANA             64
+1975 ARIZONA STATE       84 UNLV                81
+1975 MARYLAND            83 NOTRE DAME          71
+1975 LOUISVILLE          78 CINCINNATI          63
+1975 SYRACUSE            78 NORTH CAROLINA      76
+1975 KANSAS STATE        74 BOSTON COLLEGE      65
+1975 INDIANA             81 OREGON STATE        71
+1975 KENTUCKY            90 CENTRAL MICHIGAN    73
+1975 UCLA                89 ARIZONA STATE       75
+1975 LOUISVILLE          96 MARYLAND            82
+1975 SYRACUSE            95 KANSAS STATE        87
+1975 KENTUCKY            92 INDIANA             90
+1975 UCLA                75 LOUISVILLE          74
+1975 KENTUCKY            95 SYRACUSE            79
+1975 UCLA                92 KENTUCKY            85
+1976 DEPAUL              69 VIRGINIA            60
+1976 VMI                 81 TENNESSEE           75
+1976 RUTGERS             54 PRINCETON           53
+1976 CONNECTICUT         80 HOFSTRA             78
+1976 MICHIGAN            74 WICHITA STATE       73
+1976 NOTRE DAME          79 CINCINNATI          78
+1976 MISSOURI            69 WASHINGTON          67
+1976 TEXAS TECH          69 SYRACUSE            56
+1976 ALABAMA             79 NORTH CAROLINA      64
+1976 INDIANA             90 ST. JOHN'S          70
+1976 MARQUETTE           79 WESTERN KENTUCKY    60
+1976 WESTERN MICHIGAN    77 VIRGINIA TECH       67
+1976 PEPPERDINE          87 MEMPHIS STATE       77
+1976 UCLA                74 SAN DIEGO STATE     64
+1976 UNLV               103 BOISE STATE         78
+1976 ARIZONA             83 GEORGETOWN          76
+1976 VMI                 71 DEPAUL              66
+1976 RUTGERS             93 CONNECTICUT         79
+1976 MICHIGAN            80 NOTRE DAME          76
+1976 MISSOURI            86 TEXAS TECH          75
+1976 INDIANA             74 ALABAMA             69
+1976 MARQUETTE           62 WESTERN MICHIGAN    57
+1976 UCLA                70 PEPPERDINE          61
+1976 ARIZONA            114 UNLV               109
+1976 RUTGERS             91 VMI                 75
+1976 MICHIGAM            95 MISSOURI            88
+1976 INDIANA             65 MARQUETTE           56
+1976 UCLA                82 ARIZONA             66
+1976 MICHIGAN            86 RUTGERS             70
+1976 INDIANA             65 UCLA                51
+1976 INDIANA             86 MICHIGAN            68
+1977 VMI                 73 DUQUESNE            66
+1977 KENTUCKY            72 PRINCETON           58
+1977 NOTRE DAME          90 HOFSTRA             83
+1977 NORTH CAROLINA      69 PURDUE              66
+1977 UCLA                87 LOUISVILLE          79
+1977 IDAHO STATE         83 LONG BEACH STATE    72
+1977 UTAH                72 ST. JOHN'S          68
+1977 UNLV               121 SAN FRANCISCO       95
+1977 MICHIGAN            92 HOLY CROSS          81
+1977 DETROIT             93 M. TENNESSEE STATE  76
+1977 N.C.-CHARLOTTE      91 CENTRAL MICHIGAN    86
+1977 SYRACUSE            93 TENNESSEE           88
+1977 MARQUETTE           66 CINCINNATI          51
+1977 KANSAS STATE        87 PROVIDENCE          80
+1977 WAKE FOREST         86 ARKANSAS            80
+1977 SOUTHERN ILLINOIS   81 ARIZONA             77
+1977 KENTUCKY            93 VMI                 78
+1977 NORTH CAROLINA      79 NOTRE DAME          77
+1977 IDAHO STATE         76 UCLA                75
+1977 UNLV                88 UTAH                83
+1977 MICHIGAN            86 DETROIT             81
+1977 N.C.-CHARLOTTE      81 SYRACUSE            59
+1977 MARQUETTE           67 KANSAS STATE        66
+1977 WAKE FOREST         86 SOUTHERN ILLINOIS   81
+1977 NORTH CAROLINA      79 KENTUCKY            72
+1977 UNLV               107 IDAHO STATE         90
+1977 N.C.-CHARLOTTE      75 MICHIGAN            68
+1977 MARQUETTE           82 WAKE FOREST         68
+1977 NORTH CAROLINA      84 UNLV                83
+1977 MARQUETTE           51 N.C.-CHARLOTTE      49
+1977 MARQUETTE           67 NORTH CAROLINA      59
+1978 MICHIGAN STATE      77 PROVIDENCE          63
+1978 WESTERN KENTUCKY    87 SYRACUSE            86
+1978 MIAMI(OHIO)         84 MARQUETTE           81
+1978 KENTUCKY            85 FLORIDA STATE       76
+1978 UCLA                83 KANSAS              76
+1978 ARKANSAS            73 WEBER STATE         52
+1978 SAN FRANCISCO       68 NORTH CAROLINA      64
+1978 CAL STATE-FULLERTON 90 NEW MEXICO          85
+1978 DUKE                63 RHODE ISLAND        62
+1978 PENNSYLVANIA        92 ST. BONAVENTURE     83
+1978 INDIANA             63 FURMAN              62
+1978 VILLANOVA          103 LASALLE             97
+1978 UTAH                86 MISSOURI            79
+1978 NOTRE DAME         100 HOUSTON             77
+1978 DEPAUL              80 CREIGHTON           78
+1978 LOUISVILLE          76 ST. JOHN'S          68
+1978 MICHIGAN STATE      90 WESTERN KENTUCKY    69
+1978 KENTUCKY            91 MIAMI(OHIO)         69
+1978 ARKANSAS            74 UCLA                70
+1978 CAL STATE-FULLERTON 75 SAN FRANCISCO       72
+1978 DUKE                84 PENNSYLVANIA        80
+1978 VILLANOVA           61 INDIANA             60
+1978 NOTRE DAME          69 UTAH                56
+1978 DEPAUL              90 LOUISVILLE          89
+1978 KENTUCKY            52 MICHIGAN STATE      49
+1978 ARKANSAS            61 CAL STATE-FULLERTON 58
+1978 DUKE                90 VILLANOVA           72
+1978 NOTRE DAME          84 DEPAUL              64
+1978 KENTUCKY            64 ARKANSAS            59
+1978 DUKE                90 NOTRE DAME          86
+1978 KENTUCKY            94 DUKE                88
+1979 ST. JOHN'S          75 TEMPLE              70
+1979 PENNSYLVANIA        73 IONA                69
+1979 LAMAR               95 DETROIT             87
+1979 TENNESSEE           97 EASTERN KENTUCKY    81
+1979 SOUTHERN CALIFORNIA 86 UTAH STATE          67
+1979 PEPPERDINE          92 UTAH                88
+1979 WEBER STATE         81 NEW MEXICO STATE    78
+1979 VIRGINIA TECH       70 JACKSONVILLE        53
+1979 ST. JOHN'S          80 DUKE                78
+1979 RUTGERS             64 GEORGETOWN          58
+1979 PENNSYLVANIA        72 NORTH CAROLINA      71
+1979 SYRACUSE            89 CONNECTICUT         81
+1979 MICHIGAN STATE      95 LAMAR               64
+1979 LSU                 71 APPALACHIAN STATE   57
+1979 NOTRE DAME          73 TENNESSEE           67
+1979 TOLEDO              74 IOWA                72
+1979 DEPAUL              89 SOUTHERN CALIFORNIA 78
+1979 MARQUETTE           73 PACIFIC             48
+1979 UCLA                76 PEPPERDINE          71
+1979 SAN FRANCISCO       86 BRIGHAM YOUNG       63
+1979 ARKANSAS            74 WEBER STATE         63
+1979 LOUISVILLE          69 SOUTH ALABAMA       66
+1979 INDIANA STATE       86 VIRGINIA TECH       69
+1979 OKLAHOMA            90 TEXAS               76
+1979 ST. JOHN'S          67 RUTGERS             65
+1979 PENNSYLVANIA        84 SYRACUSE            76
+1979 MICHIGAN STATE      87 LSU                 71
+1979 NOTRE DAME          79 TOLEDO              71
+1979 DEPAUL              62 MARQUETTE           56
+1979 UCLA                99 SAN FRANCISCO       81
+1979 ARKANSAS            73 LOUISVILLE          62
+1979 INDIANA STATE       93 OKLAHOMA            72
+1979 PENNSYLVANIA        64 ST. JOHN'S          62
+1979 MICHIGAN STATE      80 NOTRE DAME          68
+1979 DEPAUL              95 UCLA                91
+1979 INDIANA STATE       73 ARKANSAS            71
+1979 MICHIGAN STATE     101 PENNSYLVANIA        67
+1979 INDIANA STATE       76 DEPAUL              74
+1979 MICHIGAN STATE      75 INDIANA STATE       64
+1980 VILLANOVA           77 MARQUETTE           59
+1980 IOWA                86 VCU                 72
+1980 IONA                84 HOLY CROSS          78
+1980 TENNESSEE           80 FURMAN              69
+1980 ALCORN STATE        70 SOUTH ALABAMA       62
+1980 MISSOURI            61 SAN JOSE STATE      51
+1980 TEXAS A&M           55 BRADLEY             53
+1980 KANSAS STATE        71 ARKANSAS            53
+1980 FLORIDA STATE       94 TOLEDO              91
+1980 PENNSYLVANIA        62 WASHINGTON STATE    55
+1980 PURDUE              90 LASALLE             82
+1980 VIRGINIA TECH       89 WESTERN KENTUCKY    85
+1980 UCLA                87 OLD DOMINION        74
+1980 ARIZONA STATE       99 LOYOLA-MARYMOUNT    71
+1980 CLEMSON             76 UTAH STATE          73
+1980 LAMAR               87 WEBER STATE         86
+1980 SYRACUSE            97 VILLANOVA           83
+1980 IOWA                77 N. CAROLINA STATE   64
+1980 GEORGETOWN          74 IONA                71
+1980 MARYLAND            86 TENNESSEE           75
+1980 LSU                 98 ALCORN STATE        88
+1980 MISSOURI            87 NOTRE DAME          84
+1980 TEXAS A&M           78 NORTH CAROLINA      61
+1980 LOUISVILLE          71 KANSAS STATE        69
+1980 KENTUCKY            97 FLORIDA STATE       78
+1980 DUKE                52 PENNSYLVANIA        42
+1980 PURDUE              87 ST. JOHN'S          72
+1980 INDIANA             68 VIRGINIA TECH       59
+1980 UCLA                77 DEPAUL              71
+1980 OHIO STATE          89 ARIZONA STATE       75
+1980 CLEMSON             71 BRIGHAM YOUNG       66
+1980 LAMAR               81 OREGON STATE        77
+1980 IOWA                88 SYRACUSE            77
+1980 GEORGETOWN          74 MARYLAND            68
+1980 LSU                 68 MISSOURI            63
+1980 LOUISVILLE          66 TEXAS A&M           55
+1980 DUKE                55 KENTUCKY            54
+1980 PURDUE              76 INDIANA             69
+1980 UCLA                72 OHIO STATE          68
+1980 CLEMSON             74 LAMAR               66
+1980 IOWA                81 GEORGETOWN          80
+1980 LOUISVILLE          86 LSU                 66
+1980 PURDUE              68 DUKE                60
+1980 UCLA                85 CLEMSON             74
+1980 LOUISVILLE          80 IOWA                72
+1980 UCLA                67 PURDUE              62
+1980 LOUISVILLE          59 UCLA                54
+1981 LAMAR               71 MISSOURI            67
+1981 ARKANSAS            73 MERCER              67
+1981 WICHITA STATE       95 SOUTHERN-B.R.       70
+1981 KANSAS              69 MISSISSIPPI         66
+1981 ST. JOSEPH'S        59 CREIGHTON           57
+1981 BOSTON COLLEGE      93 BALL STATE          90
+1981 MARYLAND            81 TENNESSEE-CHAT      69
+1981 ALABAMA-BIRMINGHAM  93 WESTERN KENTUCKY    68
+1981 KANSAS STATE        64 SAN FRANCISCO       60
+1981 WYOMING             78 HOWARD              43
+1981 NOTHEASTERN         55 FRESNO STATE        53
+1981 PITTSBUGH           70 IDAHO               69
+1981 VILLANOVA           90 HOUSTON             72
+1981 VCU                 85 LONG ISLAND         69
+1981 BRIGHAM YOUNG       60 PRINCETON           51
+1981 JAMES MADISON       61 GEORGETOWN          55
+1981 LSU                100 LAMAR               78
+1981 ARKANSAS            74 LOUISVILLE          73
+1981 WICHITA STATE       60 IOWA                56
+1981 KANSAS              88 ARIZONA STATE       71
+1981 ST. JOSEPH'S        49 DEPAUL              48
+1981 BOSTON COLLEGE      67 WAKE FOREST         64
+1981 INDIANA             99 MARYLAND            64
+1981 ALABAMA-BIRMINGHAM  69 KENTUCKY            62
+1981 KANSAS STATE        50 OREGON STATE        48
+1981 ILLINOIS            67 WYOMING             65
+1981 UTAH                94 NORTHEASTERN        69
+1981 NORTH CAROLINA      74 PITTSBURGH          57
+1981 VIRGINIA            54 VILLANOVA           50
+1981 TENNESSEE           58 VCU                 56
+1981 BRIGHAM YOUNG       78 UCLA                55
+1981 NOTRE DAME          54 JAMES MADISON       45
+1981 LSU                 72 ARKANSAS            56
+1981 WICHITA STATE       66 KANSAS              65
+1981 ST. JOSEPH'S        42 BOSTON COLLEGE      41
+1981 INDIANA             87 ALABAMA-BIRMINGHAM  72
+1981 KANSAS STATE        57 ILLINOIS            52
+1981 NORTH CAROLINA      61 UTAH                56
+1981 VIRGINIA            62 TENNESSEE           48
+1981 BRIGHAM YOUNG       51 NOTRE DAME          50
+1981 LSU                 96 WICHITA STATE       85
+1981 INDIANA             78 ST. JOSEPH'S        46
+1981 NORTH CAROLINA      82 KANSAS STATE        68
+1981 VIRGINIA            74 BRIGHAM YOUNG       60
+1981 INDIANA             67 LSU                 49
+1981 NORTH CAROLINA      78 VIRGINIA            65
+1981 INDIANA             63 NORTH CAROLINA      50
+1982 JAMES MADISON       55 OHIO STATE          48
+1982 ST. JOHN'S          66 PENNSYLVANIA        56
+1982 NORTHEASTERN        63 ST. JOSEPH'S        62
+1982 WAKE FOREST         74 OLD DOMINION        57
+1982 BOSTON COLLEGE      70 SAN FRANCISCO       66
+1982 KANSAS STATE        77 NORTHERN ILLINOIS   68
+1982 HOUSTON             94 ALCORN STATE        84
+1982 MARQUETTE           67 EVANSVILLE          62
+1982 TENNESSEE           61 SW LOUISIANA        57
+1982 INDIANA             94 ROBERT MORRIS       62
+1982 M. TENNESSEE STATE  50 KENTUCKY            44
+1982 TENNESSEE-CHAT      58 N. CAROLINA STATE   51
+1982 WYOMING             61 SOUTHERN CALIFORNIA 58
+1982 WEST VIRGINIA      102 NORTH CAROLINA A&T  72
+1982 IOWA                70 NE LOUISIANA        63
+1982 PEPPERDINE          99 PITTSBURGH          88
+1982 NORTH CAROLINA      52 JAMES MADISON       50
+1982 ALABAMA             69 ST. JOHN'S          68
+1982 VILLANOVA           76 NORTHEASTERN        72
+1982 MEMPHIS STATE       56 WAKE FOREST         55
+1982 BOSTON COLLEGE      82 DEPAUL              75
+1982 KANSAS STATE        65 ARKANSAS            64
+1982 HOUSTON             78 TULSA               74
+1982 MISSOURI            73 MARQUETTE           69
+1982 VIRGINIA            54 TENNESSEE           51
+1982 ALABAMA-BIRMINGHAM  80 INDIANA             70
+1982 LOUISVILLE          81 M. TENNESSEE STATE  56
+1982 MINNESOTA           62 TENNESSEE-CHAT      61
+1982 GEORGETOWN          51 WYOMING             43
+1982 FRESNO STATE        50 WEST VIRGINIA       46
+1982 IDAHO               69 IOWA                67
+1982 OREGON STATE        70 PEPPERDINE          51
+1982 NORTH CAROLINA      74 ALABAMA             69
+1982 VILLANOVA           70 MEMPHIS STATE       66
+1982 BOSTON COLLEGE      69 KANSAS STATE        65
+1982 HOUSTON             79 MISSOURI            78
+1982 ALABAMA-BIRMINGHAM  68 VIRGINIA            66
+1982 LOUISVILLE          67 MINNESOTA           61
+1982 GEORGETOWN          58 FRESNO STATE        40
+1982 OREGON STATE        60 IDAHO               42
+1982 NORTH CAROLINA      70 VILLANOVA           60
+1982 HOUSTON             99 BOSTON COLLEGE      92
+1982 LOUISVILLE          75 ALABAMA-BIRMINGHAM  68
+1982 GEORGETOWN          69 OREGON STATE        45
+1982 NORTH CAROLINA      68 HOUSTON             63
+1982 GEORGETOWN          50 LOUISVILLE          46
+1982 NORTH CAROLINA      63 GEORGETOWN          62
+1983 MARYLAND            52 TENNESSEE-CHAT      51
+1983 GEORGETOWN          68 ALCORN STATE        63
+1983 LAMAR               73 ALABAMA             50
+1983 IOWA                64 UTAH STATE          59
+1983 TENNESSEE           57 MARQUETTE           56
+1983 PURDUE              55 ROBERT MORRIS       53
+1983 OHIO                51 ILLINOIS STATE      49
+1983 OKLAHOMA            71 ALABAMA-BIRMINGHAM  63
+1983 WASHINGTON STATE    62 WEBER STATE         52
+1983 PRINCETON           56 OKLAHOMA STATE      53
+1983 N. CAROLINA STATE   69 PEPPERDINE          67
+1983 UTAH                52 ILLINOIS            49
+1983 RUTGERS             60 SW LOUISIANA        53
+1983 VCU                 76 LASALLE             67
+1983 SYRACUSE            74 MOREHEAD STATE      59
+1983 JAMES MADISON       57 WEST VIRGINIA       50
+1983 HOUSTON             60 MARYLAND            50
+1983 MEMPHIS STATE       66 GEORGETOWN          57
+1983 VILLANOVA           60 LAMAR               58
+1983 IOWA                77 MISSOURI            63
+1983 LOUISVILLE          70 TENNESSEE           57
+1983 ARKANSAS            78 PURDUE              68
+1983 KENTUCKY            57 OHIO                40
+1983 INDIANA             63 OKLAHOMA            49
+1983 VIRGINIA            54 WASHINGTON STATE    49
+1983 BOSTON COLLEGE      51 PRINCETON           42
+1983 N. CAROLINA STATE   71 UNLV                70
+1983 UTAH                67 UCLA                61
+1983 ST. JOHN'S          66 RUTGERS             55
+1983 GEORGIA             56 VCU                 54
+1983 OHIO STATE          79 SYRACUSE            74
+1983 NORTH CAROLINA      68 JAMES MADISON       49
+1983 HOUSTON             70 MEMPHIS STATE       63
+1983 VILLANOVA           55 IOWA                54
+1983 LOUISVILLE          65 ARKANSAS            63
+1983 KENTUCKY            64 INDIANA             59
+1983 VIRGINIA            95 BOSTON COLLEGE      92
+1983 N. CAROLINA STATE   75 UTAH                56
+1983 GEORGIA             70 ST. JOHN'S          67
+1983 NORTH CAROLINA      64 OHIO STATE          51
+1983 HOUSTON             89 VILLANOVA           71
+1983 LOUISVILLE          80 KENTUCKY            68
+1983 N. CAROLINA STATE   63 VIRGINIA            62
+1983 GEORGIA             82 NORTH CAROLINA      77
+1983 HOUSTON             94 LOUISVILLE          81
+1983 N. CAROLINA STATE   67 GEORGIA             60
+1983 N. CAROLINA STATE   54 HOUSTON             52
+1984 BRIGHAM YOUNG       84 ALABAMA-BIRMINGHAM  68
+1984 LOUISVILLE          72 MOREHEAD STATE      59
+1984 WEST VIRGINIA       64 OREGON STATE        62
+1984 VILLANOVA           84 MARSHALL            72
+1984 SMU                 83 MIAMI(OHIO)         69
+1984 UNLV                68 PRINCETON           56
+1984 WASHINGTON          64 NEVADA-RENO         54
+1984 DAYTON              74 LSU                 66
+1984 TEMPLE              65 ST. JOHN'S          63
+1984 RICHMOND            72 AUBURN              71
+1984 VCU                 70 NORTHEASTERN        69
+1984 VIRGINIA            58 IONA                57
+1984 ILLINOIS STATE      49 ALABAMA             48
+1984 KANSAS              57 ALCORN STATE        56
+1984 MEMPHIS STATE       92 ORAL ROBERTS        83
+1984 LOUISIANA TECH      66 FRESNO STATE        56
+1984 KENTUCKY            93 BRIGHAM YOUNG       68
+1984 LOUISVILLE          69 TULSA               67
+1984 MARYLAND           102 WEST VIRGINIA       77
+1984 ILLINOIS            64 VILLANOVA           56
+1984 GEORGETOWN          37 SMU                 36
+1984 UNLV                73 TEXAS-EL PASO       60
+1984 WASHINGTON          80 DUKE                78
+1984 DAYTON              89 OKLAHOMA            85
+1984 NORTH CAROLINA      77 TEMPLE              66
+1984 INDIANA             75 RICHMOND            67
+1984 SYRACUSE            78 VCU                 63
+1984 VIRGINIA            53 ARKANSAS            51
+1984 DEPAUL              75 ILLINOIS STATE      61
+1984 WAKE FOREST         69 KANSAS              59
+1984 MEMPHIS STATE       66 PURDUE              48
+1984 HOUSTON             77 LOUISIANA TECH      69
+1984 KENTUCKY            72 LOUISVILLE          67
+1984 ILLINOIS            72 MARYLAND            70
+1984 GEORGETOWN          62 UNLV                48
+1984 DAYTON              64 WASHINGTON          58
+1984 INDIANA             72 NORTH CAROLINA      68
+1984 VIRGINIA            63 SYRACUSE            55
+1984 WAKE FOREST         73 DEPAUL              71
+1984 HOUSTON             78 MEMPHIS STATE       71
+1984 KENTUCKY            54 ILLINOIS            51
+1984 GEORGETOWN          61 DAYTON              49
+1984 VIRGINIA            50 INDIANA             48
+1984 HOUSTON             68 WAKE FOREST         63
+1984 GEORGETOWN          53 KENTUCKY            40
+1984 HOUSTON             49 VIRGINIA            47
+1984 GEORGETOWN          84 HOUSTON             75
+1985 ST. JOHN'S          83 SOUTHERN-B.R.       59
+1985 ARKANSAS            63 IOWA                54
+1985 KENTUCKY            66 WASHINGTON          58
+1985 TEXAS-EL PASO       79 TULSA               75
+1985 N. CAROLINA STATE   65 NEVADA-RENO         56
+1985 ALABAMA             50 ARIZONA             41
+1985 VCU                 81 MARSHALL            65
+1985 GEORGETOWN          68 LEHIGH              43
+1985 TEMPLE              60 VIRGINIA TECH       57
+1985 SMU                 85 OLD DOMINION        68
+1985 LOYOLA-CHICAGO      59 IONA                58
+1985 GEORGIA             67 WICHITA STATE       59
+1985 ILLINOIS            76 NORTHEASTERN        57
+1985 SYRACUSE            70 DEPAUL              65
+1985 GEORGIA TECH        65 MERCER              58
+1985 OKLAHOMA            96 NORTH CAROLINA A&T  83
+1985 ILLINOIS STATE      58 SOUTHERN CALIFORNIA 55
+1985 LOUISIANA TECH      78 PITTSBURGH          54
+1985 OHIO STATE          75 IOWA STATE          64
+1985 BOSTON COLLEGE      55 TEXAS TECH          53
+1985 DUKE                75 PEPPERDINE          62
+1985 ALABAMA-BIRMINGHAM  70 MICHIGAN STATE      68
+1985 MEMPHIS STATE       67 PENNSYLVANIA        55
+1985 MICHIGAN            59 FAIRLEIGH DICKINSON 55
+1985 VILLANOVA           51 DAYTON              49
+1985 MARYLAND            69 MIAMI(OHIO)         68
+1985 NAVY                78 LSU                 55
+1985 AUBURN              59 PURDUE              58
+1985 KANSAS              49 OHIO                38
+1985 NOTRE DAME          79 OREGON STATE        70
+1985 NORTH CAROLINA      76 M. TENNESSEE STATE  57
+1985 ST. JOHN'S          68 ARKANSAS            65
+1985 KENTUCKY            64 UNLV                61
+1985 N. CAROLINA STATE   86 TEXAS-EL PASO       73
+1985 ALABAMA             63 VCU                 59
+1985 GEORGETOWN          63 TEMPLE              46
+1985 LOYOLA-CHICAGO      70 SMU                 57
+1985 ILLINOIS            74 GEORGIA             58
+1985 GEORGIA TECH        70 SYRACUSE            53
+1985 OKLAHOMA            75 ILLINOIS STATE      69
+1985 LOUISIANA TECH      79 OHIO STATE          67
+1985 BOSTON COLLEGE      74 DUKE                73
+1985 MEMPHIS STATE       67 ALABAMA-BIRMINGHAM  66
+1985 VILLANOVA           59 MICHIGAN            55
+1985 MARYLAND            64 NAVY                59
+1985 AUBURN              66 KANSAS              64
+1985 NORTH CAROLINA      60 NOTRE DAME          58
+1985 ST. JOHN'S          86 KENTUCKY            70
+1985 N. CAROLINA STATE   61 ALABAMA             55
+1985 GEORGETOWN          65 LOYOLA-CHICAGO      53
+1985 GEORGIA TECH        61 ILLINOIS            53
+1985 OKLAHOMA            86 LOUISIANA TECH      84
+1985 MEMPHIS STATE       59 BOSTON COLLEGE      57
+1985 VILLANOVA           46 MARYLAND            43
+1985 NORTH CAROLINA      62 AUBURN              56
+1985 ST. JOHN'S          69 N. CAROLINA STATE   60
+1985 GEORGETOWN          60 GEORGIA TECH        54
+1985 MEMPHIS STATE       63 OKLAHOMA            61
+1985 VILLANOVA           56 NORTH CAROLINA      44
+1985 GEORGETOWN          77 ST. JOHN'S          59
+1985 VILLANOVA           52 MEMPHIS STATE       45
+1985 VILLANOVA           66 GEORGETOWN          64
+1986 KENTUCKY            75 DAVIDSON            55
+1986 WESTERN KENTUCKY    67 NEBRASKA            59
+1986 ALABAMA             97 XAVIER              80
+1986 ILLINOIS            75 FAIRFIELD           51
+1986 LSU                 94 PURDUE              87
+1986 MEMPHIS STATE       95 BALL STATE          63
+1986 VILLANOVA           71 VIRGINIA TECH       62
+1986 GEORGIA TECH        68 MARIST              53
+1986 ST. JOHN'S          83 MONTANA STATE       74
+1986 AUBURN              73 ARIZONA             63
+1986 MARYLAND            69 PEPPERDINE          64
+1986 UNLV                74 NE LOUISIANA        51
+1986 ALABAMA-BIRMINGHAM  66 MISSOURI            64
+1986 NORTH CAROLINA      84 UTAH                72
+1986 BRADLEY             83 TEXAS-EL PASO       65
+1986 LOUISVILLE          93 DREXEL              73
+1986 DUKE                85 MISS. VALLEY STATE  78
+1986 OLD DOMINION        72 WEST VIRGINIA       64
+1986 DEPAUL              72 VIRGINIA            68
+1986 OKLAHOMA            80 NORTHEASTERN        74
+1986 ST. JOSEPH'S        60 RICHMOND            59
+1986 CLEVELAND STATE     83 INDIANA             79
+1986 NAVY                87 TULSA               68
+1986 SYRACUSE           101 BROWN               52
+1986 KANSAS              71 NORTH CAROLINA A&T  46
+1986 TEMPLE              61 JACKSONVILLE        50
+1986 MICHIGAN STATE      72 WASHINGTON          70
+1986 GEORGETOWN          70 TEXAS TECH          64
+1986 N. CAROLINA STATE   66 IOWA                64
+1986 ARKANSAS-L.R.       90 NOTRE DAME          83
+1986 IOWA STATE          81 MIAMI(OHIO)         79
+1986 MICHIGAN            70 AKRON               64
+1986 KENTUCKY            71 WESTERN KENTUCKY    64
+1986 ALABAMA             58 ILLINOIS            56
+1986 LSU                 83 MEMPHIS STATE       81
+1986 GEORGIA TECH        66 VILLANOVA           61
+1986 AUBURN              81 ST. JOHN'S          65
+1986 UNLV                70 MARYLAND            64
+1986 NORTH CAROLINA      77 ALABAMA-BIRMINGHAM  59
+1986 LOUISVILLE          82 BRADLEY             68
+1986 DUKE                89 OLD DOMINION        61
+1986 DEPAUL              74 OKLAHOMA            69
+1986 CLEVELAND STATE     75 ST. JOSEPH'S        69
+1986 NAVY                97 SYRACUSE            85
+1986 KANSAS              65 TEMPLE              43
+1986 MICHIGAN STATE      80 GEORGETOWN          68
+1986 N. CAROLINA STATE   80 ARKANSAS-L.R.       66
+1986 IOWA                72 MICHIGAN            69
+1986 KENTUCKY            68 ALABAMA             63
+1986 LSU                 70 GEORGIA TECH        64
+1986 AUBURN              70 UNLV                63
+1986 LOUISVILLE          94 NORTH CAROLINA      79
+1986 DUKE                74 DEPAUL              67
+1986 NAVY                71 CLEVELAND STATE     70
+1986 KANSAS              96 MICHIGAN STATE      86
+1986 N. CAROLINA STATE   70 IOWA STATE          66
+1986 LSU                 59 KENTUCKY            57
+1986 LOUISVILLE          84 AUBURN              76
+1986 DUKE                71 NAVY                50
+1986 KANSAS              75 N. CAROLINA STATE   67
+1986 LOUISVILLE          88 LSU                 77
+1986 DUKE                71 KANSAS              67
+1986 LOUISVILLE          72 DUKE                69
+1987 UNLV                95 IDAHO STATE         70
+1987 KANSAS STATE        82 GEORGIA             79
+1987 WYOMING             64 VIRGINIA            60
+1987 UCLA                92 CENTRAL MICHIGAN    73
+1987 OKLAHOMA            74 TULSA               69
+1987 PITTSBURGH          93 MARIST              68
+1987 TEXAS-EL PASO       98 ARIZONA             91
+1987 IOWA                99 SANTA CLARA         76
+1987 INDIANA             92 FAIRFIELD           58
+1987 AUBURN              62 SAN DIEGO           61
+1987 DUKE                58 TEXAS A&M           51
+1987 XAVIER(OHIO)        70 MISSOURI            69
+1987 ST. JOHN'S          57 WICHITA STATE       55
+1987 DEPAUL              76 LOUISIANA TECH      62
+1987 LSU                 85 GEORGIA TECH        79
+1987 TEMPLE              75 SOUTHERN-B.R.       56
+1987 GEORGETOWN          75 BUCKNELL            53
+1987 OHIO STATE          91 KENTUCKY            77
+1987 KANSAS              66 HOUSTON             55
+1987 SW MISSOURI STATE   65 CLEMSON             60
+1987 PROVIDENCE          90 ALABAMA-BIRMINGHAM  68
+1987 AUSTIN PEAY         68 ILLINOIS            67
+1987 NEW ORLEANS         83 BRIGHAM YOUNG       79
+1987 ALABAMA             88 NORTH CAROLINA A&T  71
+1987 NORTH CAROLINA     113 PENNSYLVANIA        82
+1987 MICHIGAN            97 NAVY                82
+1987 NOTRE DAME          84 M. TENNESSEE STATE  71
+1987 TCU                 76 MARSHALL            70
+1987 FLORIDA             82 N. CAROLINA STATE   70
+1987 PURDUE             104 NORTHEASTERN        95
+1987 WESTERN KENTUCKY    64 WEST VIRGINIA       62
+1987 SYRACUSE            79 GEORGIA SOUTHERN    73
+1987 UNLV                80 KANSAS STATE        61
+1987 WYOMING             78 UCLA                68
+1987 OKLAHOMA            96 PITTSBURGH          93
+1987 IOWA                84 TEXAS-EL PASO       82
+1987 INDIANA            107 AUBURN              90
+1987 DUKE                65 XAVIER(OHIO)        60
+1987 DEPAUL              83 ST. JOHN'S          75
+1987 LSU                 72 TEMPLE              62
+1987 GEORGETOWN          82 OHIO STATE          79
+1987 KANSAS              67 SW MISSOURI STATE   63
+1987 PROVIDENCE          90 AUSTIN PEAY         87
+1987 ALABAMA            101 NEW ORLEANS         76
+1987 NORTH CAROLINA     109 MICHIGAN            97
+1987 NOTRE DAME          58 TCU                 57
+1987 FLORIDA             85 PURDUE              66
+1987 SYRACUSE           104 WESTERN KENTUCKY    86
+1987 UNLV                92 WYOMING             78
+1987 IOWA                93 OKLAHOMA            91
+1987 INDIANA             88 DUKE                82
+1987 LSU                 63 DEPAUL              58
+1987 GEORGETOWN          70 KANSAS              57
+1987 PROVIDENCE         103 ALABAMA             82
+1987 NORTH CAROLINA      74 NOTRE DAME          68
+1987 SYRACUSE            87 FLORIDA             81
+1987 UNLV                84 IOWA                81
+1987 INDIANA             77 LSU                 76
+1987 PROVIDENCE          88 GEORGETOWN          73
+1987 SYRACUSE            79 NORTH CAROLINA      75
+1987 INDIANA             97 UNLV                93
+1987 SYRACUSE            77 PROVIDENCE          63
+1987 INDIANA             74 SYRACUSE            73
+1988 PURDUE              94 FAIRLEIGH DICKINSON 79
+1988 MEMPHIS STATE       75 BAYLOR              60
+1988 DEPAUL              83 WICHITA STATE       62
+1988 KANSAS STATE        66 LASALLE             53
+1988 KANSAS              85 XAVIER(OHIO)        72
+1988 MURRAY STATE        78 N. CAROLINA STATE   75
+1988 VANDERBILT          80 UTAH STATE          77
+1988 PITTSBURGH         108 EASTERN MICHIGAN    90
+1988 TEMPLE              87 LEHIGH              73
+1988 GEORGETOWN          66 LSU                 63
+1988 GEORGIA TECH        90 IOWA STATE          78
+1988 RICHMOND            72 INDIANA             69
+1988 RHODE ISLAND        87 MISSOURI            80
+1988 SYRACUSE            69 NORTH CAROLINA A&T  55
+1988 SMU                 83 NOTRE DAME          75
+1988 DUKE                85 BOSTON UNIVERSITY   69
+1988 ARIZONA             90 CORNELL             50
+1988 SETON HALL          80 TEXAS-EL PASO       64
+1988 IOWA               102 FLORIDA STATE       98
+1988 UNLV                54 SW MISSOURI STATE   50
+1988 FLORIDA             62 ST. JOHN'S          59
+1988 MICHIGAN            63 BOISE STATE         58
+1988 LOYOLA-MARYMOUNT   119 WYOMING            115
+1988 NORTH CAROLINA      83 NORTH TEXAS STATE   65
+1988 OKLAHOMA            94 TENNESSEE-CHAT      66
+1988 AUBURN              90 BRADLEY             86
+1988 LOUISVILLE          70 OREGON STATE        61
+1988 BRIGHAM YOUNG       98 N.C.-CHARLOTTE      92
+1988 VILLANOVA           82 ARKANSAS            74
+1988 ILLINOIS            81 TEXAS-SAN ANTONIO   72
+1988 MARYLAND            92 UC-SANTA BARBARA    82
+1988 KENTUCKY            99 SOUTHERN-B.R.       84
+1988 PURDUE             100 MEMPHIS STATE       73
+1988 KANSAS STATE        66 DEPAUL              58
+1988 KANSAS              61 MURRAY STATE        58
+1988 VANDERBILT          80 PITTSBURGH          74
+1988 TEMPLE              74 GEORGETOWN          53
+1988 RICHMOND            59 GEORGIA TECH        55
+1988 RHODE ISLAND        97 SYRACUSE            94
+1988 DUKE                94 SMU                 79
+1988 ARIZONA             84 SETON HALL          55
+1988 IOWA               104 UNLV                86
+1988 MICHIGAN           108 FLORIDA             85
+1988 NORTH CAROLINA     123 LOYOLA-MARYMOUNT    97
+1988 OKLAHOMA           107 AUBURN              87
+1988 LOUISVILLE          97 BRIGHAM YOUNG       76
+1988 VILLANOVA           66 ILLINOIS            63
+1988 KENTUCKY            90 MARYLAND            81
+1988 KANSAS STATE        73 PURDUE              70
+1988 KANSAS              77 VANDERBILT          64
+1988 TEMPLE              69 RICHMOND            47
+1988 DUKE                73 RHODE ISLAND        72
+1988 ARIZONA             99 IOWA                79
+1988 NORTH CAROLINA      78 MICHIGAN            69
+1988 OKLAHOMA           108 LOUISVILLE          98
+1988 VILLANOVA           80 KENTUCKY            74
+1988 KANSAS              71 KANSAS STATE        58
+1988 DUKE                63 TEMPLE              53
+1988 ARIZONA             70 NORTH CAROLINA      52
+1988 OKLAHOMA            78 VILLANOVA           59
+1988 KANSAS              66 DUKE                59
+1988 OKLAHOMA            86 ARIZONA             78
+1988 KANSAS              83 OKLAHOMA            79
+1989 ILLINOIS            77 MCNEESE STATE       71
+1989 BALL STATE          68 PITTSBURGH          64
+1989 ARKANSAS           120 LOYOLA-MARYMOUNT   101
+1989 LOUISVILLE          76 ARKANSAS-L.R.       71
+1989 TEXAS               76 GEORGIA TECH        70
+1989 MISSOURI            85 CREIGHTON           69
+1989 COLORADO STATE      68 FLORIDA             46
+1989 SYRACUSE           104 BUCKNELL            81
+1989 OKLAHOMA            72 E. TENNESSEE STATE  71
+1989 LOUISIANA TECH      88 LASALLE             74
+1989 VIRGINIA           100 PROVIDENCE          97
+1989 M. TENNESSEE STATE  97 FLORIDA STATE       83
+1989 SOUTH ALABAMA       86 ALABAMA             84
+1989 MICHIGAN            92 XAVIER(OHIO)        87
+1989 UCLA                84 IOWA STATE          74
+1989 NORTH CAROLINA      93 SOUTHERN-B.R.       79
+1989 GEORGETOWN          50 PRINCETON           49
+1989 NOTRE DAME          81 VANDERBILT          65
+1989 N. CAROLINA STATE   81 SOUTH CAROLINA      66
+1989 IOWA                87 RUTGERS             73
+1989 MINNESOTA           86 KANSAS STATE        75
+1989 SIENA               80 STANFORD            78
+1989 WEST VIRGINIA       84 TENNESSEE           68
+1989 DUKE                90 S. CAROLINA STATE   69
+1989 ARIZONA             94 ROBERT MORRIS       60
+1989 CLEMSON             83 ST. MARY'S          70
+1989 DEPAUL              66 MEMPHIS STATE       63
+1989 UNLV                68 IDAHO               56
+1989 EVANSVILLE          94 OREGON STATE        90
+1989 SETON HALL          60 SW MISSOURI STATE   51
+1989 TEXAS-EL PASO       85 LSU                 74
+1989 INDIANA             99 GEORGE MASON        85
+1989 ILLINOIS            72 BALL STATE          60
+1989 LOUISVILLE          93 ARKANSAS            84
+1989 MISSOURI           108 TEXAS               89
+1989 SYRACUSE            65 COLORADO STATE      50
+1989 OKLAHOMA           124 LOUISIANA TECH      81
+1989 VIRGINIA           104 M. TENNESSEE STATE  88
+1989 MICHIGAN            91 SOUTH ALABAMA       82
+1989 NORTH CAROLINA      88 UCLA                81
+1989 GEORGETOWN          81 NOTRE DAME          74
+1989 N. CAROLINA STATE  102 IOWA                96
+1989 MINNESOTA           80 SIENA               67
+1989 DUKE                70 WEST VIRGINIA       63
+1989 ARIZONA             94 CLEMSON             68
+1989 UNLV                85 DEPAUL              70
+1989 SETON HALL          87 EVANSVILLE          73
+1989 INDIANA             92 TEXAS-EL PASO       69
+1989 ILLINOIS            83 LOUISVILLE          69
+1989 SYRACUSE            83 MISSOURI            80
+1989 VIRGINIA            86 OKLAHOMA            80
+1989 MICHIGAN            92 NORTH CAROLINA      87
+1989 GEORGETOWN          69 N. CAROLINA STATE   61
+1989 DUKE                87 MINNESOTA           70
+1989 UNLV                68 ARIZONA             67
+1989 SETON HALL          78 INDIANA             65
+1989 ILLINOIS            89 SYRACUSE            86
+1989 MICHIGAN           102 VIRGINIA            65
+1989 DUKE                85 GEORGETOWN          77
+1989 SETON HALL          84 UNLV                61
+1989 MICHIGAN            83 ILLINOIS            81
+1989 SETON HALL          95 DUKE                78
+1989 MICHIGAN            80 SETON HALL          79
+1990 MICHIGAN STATE      75 MURRAY STATE        71
+1990 UC-SANTA BARBARA    70 HOUSTON             66
+1990 LSU                 70 VILLANOVA           63
+1990 MINNESOTA           64 TEXAS-EL PASO       61
+1990 NORTHERN IOWA       74 MISSOURI            71
+1990 VIRGINIA            75 NOTRE DAME          67
+1990 SYRACUSE            70 COPPIN STATE        48
+1990 UNLV               102 ARKANSAS-L.R.       72
+1990 OHIO STATE          84 PROVIDENCE          83
+1990 BALL STATE          54 OREGON STATE        53
+1990 IDAHO               89 LOUISVILLE          78
+1990 LOYOLA-MARYMOUNT   111 NEW MEXICO STATE    92
+1990 MICHIGAN            76 ILLINOIS STATE      70
+1990 ALABAMA             71 COLORADO STATE      54
+1990 ARIZONA             79 SOUTH FLORIDA       67
+1990 CONNECTICUT         76 BOSTON UNIVERSITY   52
+1990 CALIFORNIA          65 INDIANA             63
+1990 CLEMSON             49 BRIGHAM YOUNG       47
+1990 LASALLE             79 SOUTHERN MISS       63
+1990 ST. JOHN'S          81 TEMPLE              65
+1990 DUKE                81 RICHMOND            46
+1990 UCLA                68 ALABAMA-BIRMINGHAM  56
+1990 KANSAS              79 ROBERT MORRIS       71
+1990 OKLAHOMA            77 TOWSON STATE        68
+1990 NORTH CAROLINA      83 SW MISSOURI STATE   70
+1990 DAYTON              88 ILLINOIS            86
+1990 ARKANSAS            68 PRINCETON           64
+1990 XAVIER              87 KANSAS STATE        79
+1990 GEORGETOWN          70 TEXAS SOUTHERN      52
+1990 TEXAS              100 GEORGIA             88
+1990 PURDUE              75 NE LOUISIANA        63
+1990 MICHIGAN STATE      62 UC-SANTA BARBARA    58
+1990 GEORGIA TECH        94 LSU                 91
+1990 MINNESOTA           81 NORTHERN IOWA       78
+1990 SYRACUSE            63 VIRGINIA            61
+1990 UNLV                76 OHIO STATE          65
+1990 BALL STATE          62 LOUISVILLE          60
+1990 LOYOLA-MARYMOUNT   149 MICHIGAN           115
+1990 ALABAMA             77 ARIZONA             55
+1990 CONNECTICUT         74 CALIFORNIA          54
+1990 CLEMSON             79 LASALLE             75
+1990 DUKE                76 ST. JOHN'S          72
+1990 UCLA                71 KANSAS              70
+1990 NORTH CAROLINA      79 OKLAHOMA            77
+1990 ARKANSAS            86 DAYTON              84
+1990 XAVIER              74 GEORGETOWN          71
+1990 TEXAS               73 PURDUE              72
+1990 GEORGIA TECH        81 MICHIGAN STATE      80
+1990 MINNESOTA           82 SYRACUSE            75
+1990 UNLV                69 BALL STATE          67
+1990 LOYOLA-MARYMOUNT    62 ALABAMA             60
+1990 CONNECTICUT         71 CLEMSON             70
+1990 DUKE                90 UCLA                81
+1990 ARKANSAS            96 NORTH CAROLINA      73
+1990 TEXAS              102 XAVIER              89
+1990 GEORGIA TECH        93 MINNESOTA           91
+1990 UNLV               131 LOYOLA-MARYMOUNT   101
+1990 DUKE                79 CONNECTICUT         78
+1990 ARKANSAS            88 TEXAS               85
+1990 UNLV                90 GEORGIA TECH        81
+1990 DUKE                97 ARKANSAS            83
+1990 UNLV               103 DUKE                73
+1991 UNLV                99 MONTANA             65
+1991 GEORGETOWN          79 VANDERBILT          60
+1991 MICHIGAN STATE      60 WISCONSIN-GREEN BAY 58
+1991 UTAH                82 SOUTH ALABAMA       72
+1991 CREIGHTON           64 NEW MEXICO STATE    56
+1991 SETON HALL          71 PEPPERDINE          51
+1991 BRIGHAM YOUNG       61 VIRGINIA            48
+1991 ARIZONA             93 ST. FRANCIS-PA      80
+1991 OHIO STATE          97 TOWSON STATE        86
+1991 GEORGIA TECH        87 DEPAUL              70
+1991 TEXAS               73 ST. PETER'S         65
+1991 ST. JOHN'S          75 NORTHERN ILLINOIS   68
+1991 CONNECTICUT         79 LSU                 62
+1991 XAVIER-OHIO         89 NEBRASKA            84
+1991 IOWA                76 E. TENNESSEE STATE  73
+1991 DUKE               102 NE LOUISIANA        73
+1991 NORTH CAROLINA     101 NORTHEASTERN        66
+1991 VILLANOVA           50 PRINCETON           48
+1991 EASTERN MICHIGAN    76 MISSISSIPPI STATE   56
+1991 PENN STATE          74 UCLA                69
+1991 N. CAROLINA STATE  114 SOUTHERN MISS       85
+1991 OKLAHOMA STATE      67 NEW MEXICO          54
+1991 TEMPLE              80 PURDUE              63
+1991 RICHMOND            73 SYRACUSE            69
+1991 ARKANSAS           117 GEORGIA STATE       76
+1991 ARIZONA STATE       79 RUTGERS             76
+1991 WAKE FOREST         71 LOUISIANA TECH      65
+1991 ALABAMA             89 MURRAY STATE        79
+1991 PITTSBURGH          76 GEORGIA             68
+1991 KANSAS              55 NEW ORLEANS         49
+1991 FLORIDA STATE       75 SOUTHERN CALIFORNIA 72
+1991 INDIANA             79 COASTAL CAROLINA    69
+1991 UNLV                62 GEORGETOWN          54
+1991 UTAH                85 MICHIGAN STATE      84
+1991 SETON HALL          81 CREIGHTON           69
+1991 ARIZONA             76 BRIGHAM YOUNG       61
+1991 OHIO STATE          65 GEORGIA TECH        61
+1991 ST. JOHN'S          84 TEXAS               76
+1991 CONNECTICUT         66 XAVIER-OHIO         50
+1991 DUKE                85 IOWA                70
+1991 NORTH CAROLINA      84 VILLANOVA           69
+1991 EASTERN MICHIGAN    71 PENN STATE          68
+1991 OKLAHOMA STATE      73 N. CAROLINA STATE   64
+1991 TEMPLE              77 RICHMOND            64
+1991 ARKANSAS            97 ARIZONA STATE       90
+1991 ALABAMA             96 WAKE FOREST         88
+1991 KANSAS              77 PITTSBURGH          66
+1991 INDIANA             82 FLORIDA STATE       60
+1991 UNLV                83 UTAH                66
+1991 SETON HALL          81 ARIZONA             77
+1991 ST. JOHN'S          91 OHIO STATE          74
+1991 DUKE                81 CONNECTICUT         67
+1991 NORTH CAROLINA      93 EASTERN MICHIGAN    67
+1991 TEMPLE              72 OKLAHOMA STATE      63
+1991 ARKANSAS            93 ALABAMA             70
+1991 KANSAS              83 INDIANA             65
+1991 UNLV                77 SETON HALL          65
+1991 DUKE                78 ST. JOHN'S          61
+1991 NORTH CAROLINA      75 TEMPLE              72
+1991 KANSAS              93 ARKANSAS            81
+1991 DUKE                79 UNLV                77
+1991 KANSAS              79 NORTH CAROLINA      73
+1991 DUKE                72 KANSAS              65
+1992 KANSAS             100 HOWARD              67
+1992 TEXAS-EL PASO       55 EVANSVILLE          50
+1992 MICHIGAN STATE      61 SW MISSOURI STATE   54
+1992 CINCINNATI          85 DELAWARE            47
+1992 MEMPHIS STATE       80 PEPPERDINE          70
+1992 ARKANSAS            80 MURRAY STATE        69
+1992 GEORGIA TECH        65 HOUSTON             60
+1992 SOUTHERN CALIFORNIA 84 NE LOUISIANA        54
+1992 OHIO STATE          83 MISS. VALLEY STATE  56
+1992 CONNECTICUT         86 NEBRASKA            65
+1992 ALABAMA             80 STANFORD            75
+1992 NORTH CAROLINA      68 MIAMI(OHIO)         63
+1992 MICHIGAN            73 TEMPLE              66
+1992 E. TENNESSEE STATE  87 ARIZONA             80
+1992 TULANE              61 ST. JOHN'S          57
+1992 OKLAHOMA STATE     100 GEORGIA SOUTHERN    73
+1992 DUKE                82 CAMPBELL            56
+1992 IOWA                98 TEXAS               92
+1992 MISSOURI            89 WEST VIRGINIA       78
+1992 SETON HALL          78 LASALLE             76
+1992 SYRACUSE            51 PRINCETON           43
+1992 MASSACHUSETTS       85 FORDHAM             58
+1992 IOWA STATE          76 N.C.-CHARLOTTE      74
+1992 KENTUCKY            88 OLD DOMINION        69
+1992 UCLA                73 ROBERT MORRIS       53
+1992 LOUISVILLE          81 WAKE FOREST         58
+1992 NEW MEXICO STATE    81 DEPAUL              73
+1992 SW LOUISIANA        87 OKLAHOMA            83
+1992 GEORGETOWN          75 SOUTH FLORIDA       60
+1992 FLORIDA STATE       78 MONTANA             68
+1992 LSU                 94 BRIGHAM YOUNG       83
+1992 INDIANA             94 EASTERN ILLINOIS    55
+1992 TEXAS-EL PASO       66 KANSAS              60
+1992 CINCINNATI          77 MICHIGAN STATE      65
+1992 MEMPHIS STATE       82 ARKANSAS            80
+1992 GEORGIA TECH        79 SOUTHERN CALIFORNIA 78
+1992 OHIO STATE          78 CONNECTICUT         55
+1992 NORTH CAROLINA      64 ALABAMA             55
+1992 MICHIGAN           102 E. TENNESSEE STATE  90
+1992 OKLAHOMA STATE      87 TULANE              71
+1992 DUKE                75 IOWA                62
+1992 SETON HALL          88 MISSOURI            71
+1992 MASSACHUSETTS       77 SYRACUSE            71
+1992 KENTUCKY           106 IOWA STATE          98
+1992 UCLA                85 LOUISVILLE          69
+1992 NEW MEXICO STATE    81 SW LOUISIANA        73
+1992 FLORIDA STATE       78 GEORGETOWN          68
+1992 INDIANA             89 LSU                 79
+1992 CINCINNATI          69 TEXAS-EL PASO       67
+1992 MEMPHIS STATE       83 GEORGIA TECH        79
+1992 OHIO STATE          80 NORTH CAROLINA      73
+1992 MICHIGAN            75 OKLAHOMA STATE      72
+1992 DUKE                81 SETON HALL          69
+1992 KENTUCKY            87 MASSACHUSETTS       77
+1992 UCLA                85 NEW MEXICO STATE    78
+1992 INDIANA             85 FLORIDA STATE       74
+1992 CINCINNATI          88 MEMPHIS STATE       57
+1992 MICHIGAN            75 OHIO STATE          71
+1992 DUKE               104 KENTUCKY           103
+1992 INDIANA            106 UCLA                79
+1992 MICHIGAN            76 CINCINNATI          72
+1992 DUKE                81 INDIANA             78
+1992 DUKE                71 MICHIGAN            51
+1993 KENTUCKY            96 RIDER               52
+1993 UTAH                86 PITTSBURGH          65
+1993 WAKE FOREST         81 TENNESSEE-CHAT      58
+1993 IOWA                82 NE LOUISIANA        69
+1993 TULANE              55 KANSAS STATE        53
+1993 FLORIDA STATE       82 EVANSVILLE          70
+1993 WESTERN KENTUCKY    55 MEMPHIS STATE       52
+1993 SETON HALL          81 TENNESSEE STATE     59
+1993 MICHIGAN            84 COASTAL CAROLINA    53
+1993 UCLA                81 IOWA STATE          70
+1993 GEORGE WASHINGTON   82 NEW MEXICO          68
+1993 SOUTHERN            93 GEORGIA TECH        78
+1993 ILLINOIS            75 LONG BEACH STATE    72
+1993 VANDERBILT          92 BOISE STATE         72
+1993 TEMPLE              75 MISSOURI            61
+1993 SANTA CLARA         64 ARIZONA             61
+1993 NORTH CAROLINA      85 EAST CAROLINA       65
+1993 RHODE ISLAND        74 PURDUE              68
+1993 ST. JOHN'S          85 TEXAS TECH          67
+1993 ARKANSAS            94 HOLY CROSS          64
+1993 VIRGINIA            78 MANHATTAN           66
+1993 MASSACHUSETTS       54 PENNSYLVANIA        50
+1993 NEW MEXICO STATE    93 NEBRASKA            79
+1993 CINCINNATI          93 COPPIN STATE        66
+1993 INDIANA             97 WRIGHT STATE        54
+1993 XAVIER(OHIO)        73 NEW ORLEANS         55
+1993 OKLAHOMA STATE      74 MARQUETTE           62
+1993 LOUISVILLE          76 DELAWARE            70
+1993 CALIFORNIA          66 LSU                 64
+1993 DUKE               105 SOUTHERN ILLINOIS   70
+1993 BRIGHAM YOUNG       80 SMU                 71
+1993 KANSAS              94 BALL STATE          72
+1993 KENTUCKY            83 UTAH                62
+1993 WAKE FOREST         84 IOWA                78
+1993 FLORIDA STATE       94 TULANE              63
+1993 WESTERN KENTUCKY    72 SETON HALL          68
+1993 MICHIGAN            86 UCLA                84
+1993 GEORGE WASHINGTON   90 SOUTHERN            80
+1993 VANDERBILT          85 ILLINOIS            68
+1993 TEMPLE              68 SANTA CLARA         57
+1993 NORTH CAROLINA     112 RHODE ISLAND        67
+1993 ARKANSAS            80 ST. JOHN'S          74
+1993 VIRGINIA            71 MASSACHUSETTS       56
+1993 CINCINNATI          92 NEW MEXICO STATE    55
+1993 INDIANA             73 XAVIER(OHIO)        55
+1993 LOUISVILLE          78 OKLAHOMA STATE      63
+1993 CALIFORNIA          82 DUKE                77
+1993 KANSAS              90 BRIGHAM YOUNG       76
+1993 KENTUCKY           103 WAKE FOREST         69
+1993 FLORIDA STATE       81 WESTERN KENTUCKY    78
+1993 MICHIGAN            72 GEORGE WASHINGTON   64
+1993 TEMPLE              67 VANDERBILT          59
+1993 NORTH CAROLINA      80 ARKANSAS            74
+1993 CINCINNATI          71 VIRGINIA            54
+1993 INDIANA             82 LOUISVILLE          69
+1993 KANSAS              93 CALIFORNIA          76
+1993 KENTUCKY           106 FLORIDA STATE       81
+1993 MICHIGAN            77 TEMPLE              72
+1993 NORTH CAROLINA      75 CINCINNATI          68
+1993 KANSAS              83 INDIANA             77
+1993 MICHIGAN            81 KENTUCKY            78
+1993 NORTH CAROLINA      78 KANSAS              68
+1993 NORTH CAROLINA      77 MICHIGAN            71
+1994 CONNECTICUT         64 RIDER               46
+1994 GEORGE WASHINGTON   51 ALABAMA-BIRMINGHAM  46
+1994 PENNSYLVANIA        90 NEBRASKA            80
+1994 FLORIDA             64 JAMES MADISON       62
+1994 NORTH CAROLINA      71 LIBERTY             51
+1994 BOSTON COLLEGE      67 WASHINGTON STATE    64
+1994 TEMPLE              61 DREXEL              39
+1994 INDIANA             84 OHIO                72
+1994 WAKE FOREST         68 COLLEGE CHARLESTON  58
+1994 KANSAS             102 TENNESSEE-CHAT      73
+1994 PURDUE              98 CENTRAL FLORIDA     67
+1994 ALABAMA             76 PROVIDENCE          70
+1994 MARQUETTE           81 SW LOUISIANA        59
+1994 KENTUCKY            83 TENNESSEE STATE     70
+1994 DUKE                82 TEXAS SOUTHERN      70
+1994 MICHIGAN STATE      84 SETON HALL          73
+1994 MARYLAND            74 ST. LOUIS           66
+1994 MASSACHUSETTS       78 SW TEXAS STATE      60
+1994 MICHIGAN            78 PEPPERDINE          74
+1994 TEXAS               91 WESTERN KENTUCKY    77
+1994 OKLAHOMA STATE      65 NEW MEXICO STATE    55
+1994 TULSA              112 UCLA               102
+1994 GEORGETOWN          84 ILLINOIS            77
+1994 ARKANSAS            94 NORTH CAROLINA A&T  79
+1994 SYRACUSE            92 HAWAII              78
+1994 WISCONSIN-GB        61 CALIFORNIA          57
+1994 MISSOURI            76 NAVY                53
+1994 WISCONSIN           80 CINCINNATI          72
+1994 VIRGINIA            57 NEW MEXICO          54
+1994 ARIZONA             81 LOYOLA-MARYLAND     55
+1994 LOUISVILLE          67 BOISE STATE         58
+1994 MINNESOTA           74 SOUTHERN ILLINOIS   60
+1994 CONNECTICUT         75 GEORGE WASHINGTON   63
+1994 FLORIDA             70 PENNSYLVANIA        58
+1994 INDIANA             67 TEMPLE              58
+1994 BOSTON COLLEGE      75 NORTH CAROLINA      72
+1994 PURDUE              83 ALABAMA             73
+1994 KANSAS              69 WAKE FOREST         58
+1994 MARQUETTE           75 KENTUCKY            63
+1994 DUKE                85 MICHIGAN STATE      74
+1994 MARYLAND            95 MASSACHUSETTS       87
+1994 MICHIGAN            84 TEXAS               79
+1994 TULSA               82 OKLAHOMA STATE      80
+1994 ARKANSAS            85 GEORGETOWN          73
+1994 SYRACUSE            64 WISCONSIN-GB        59
+1994 MISSOURI           109 WISCONSIN           96
+1994 ARIZONA             71 VIRGINIA            58
+1994 LOUISVILLE          60 MINNESOTA           55
+1994 BOSTON COLLEGE      77 INDIANA             68
+1994 FLORIDA             69 CONNECTICUT         60
+1994 DUKE                59 MARQUETTE           49
+1994 PURDUE              83 KANSAS              78
+1994 ARKANSAS           103 TULSA               84
+1994 MICHIGAN            78 MARYLAND            71
+1994 MISSOURI            98 SYRACUSE            88
+1994 ARIZONA             82 LOUISVILLE          70
+1994 FLORIDA             74 BOSTON COLLEGE      66
+1994 DUKE                69 PURDUE              60
+1994 ARKANSAS            76 MICHIGAN            68
+1994 ARIZONA             92 MISSOURI            72
+1994 DUKE                70 FLORIDA             65
+1994 ARKANSAS            91 ARIZONA             82
+1994 ARKANSAS            76 DUKE                72 
+1995 WAKE FOREST         79 NORTH CAROLINA A&T  47
+1995 ST. LOUIS           64 MINNESOTA           61
+1995 ALABAMA             91 PENNSYLVANIA        85
+1995 OKLAHOMA STATE      73 DREXEL              49
+1995 STANFORD            70 NC-CHARLOTTE        68
+1995 MASSACHUSETTS       68 ST. PETER'S         51
+1995 OLD DOMINION        89 VILLANOVA           81
+1995 TULSA               68 ILLINOIS            62
+1995 MANHATTAN           77 OKLAHOMA            67
+1995 ARIZONA STATE       81 BALL STATE          66
+1995 KENTUCKY           113 MOUNT ST. MARY'S    67
+1995 TULANE              76 BRIGHAM YOUNG       70
+1995 IOWA STATE          64 FLORIDA             61
+1995 NORTH CAROLINA      80 MURRAY STATE        70
+1995 WEBER STATE         79 MICHIGAN STATE      72
+1995 GEORGETOWN          68 XAVIER(OHIO)        63
+1995 MIAMI(OHIO)         71 ARIZONA             62
+1995 VIRGINIA            96 NICHOLLS STATE      72
+1995 KANSAS              82 COLGATE             68
+1995 WESTERN KENTUCKY    82 MICHIGAN            76
+1995 SYRACUSE            96 SOUTHERN ILLINOIS   92
+1995 ARKANSAS            79 TEXAS SOUTHERN      78
+1995 MEMPHIS             77 LOUISVILLE          56
+1995 PURDUE              49 WISCONSIN-GB        48
+1995 CONNECTICUT        100 TENNESSEE-CHAT      71
+1995 CINCINNATI          77 TEMPLE              71
+1995 TEXAS               90 OREGON              73
+1995 MARYLAND            87 GONZAGA             63
+1995 OKLAHOMA STATE      66 ALABAMA             52
+1995 WAKE FOREST         64 ST. LOUIS           59
+1995 MASSACHUSETTS       75 STANFORD            53
+1995 TULSA               64 OLD DOMINION        52
+1995 ARIZONA STATE       64 MANHATTAN           54
+1995 KENTUCKY            82 TULANE              60
+1995 GEORGETOWN          53 WEBER STATE         51
+1995 NORTH CAROLINA      73 IOWA STATE          51
+1995 VIRGINIA            60 MIAMI(OHIO)         54
+1995 KANSAS              75 WESTERN KENTUCKY    70
+1995 MEMPHIS             75 PURDUE              73
+1995 ARKANSAS            96 SYRACUSE            94
+1995 MISSISSIPPI STATE   78 UTAH                64
+1995 UCLA                75 MISSOURI            74
+1995 CONNECTICUT         96 CINCINNATI          91
+1995 MARYLAND            82 TEXAS               68
+1995 OKLAHOMA STATE      71 WAKE FOREST         66
+1995 MASSACHUSETTS       76 TULSA               51
+1995 NORTH CAROLINA      74 GEORGETOWN          64
+1995 KENTUCKY            97 ARIZONA STATE       73
+1995 VIRGINIA            67 KANSAS              58
+1995 ARKANSAS            96 MEMPHIS             91
+1995 UCLA                86 MISSISSIPPI STATE   67
+1995 CONNECTICUT         99 MARYLAND            89
+1995 OKLAHOMA STATE      68 MASSACHUSETTS       54
+1995 NORTH CAROLINA      74 KENTUCKY            61
+1995 ARKANSAS            68 VIRGINIA            61
+1995 UCLA               102 CONNECTICUT         96
+1995 UCLA                74 OKLAHOMA STATE      61
+1995 ARKANSAS            75 NORTH CAROLINA      68  
+1995 UCLA                89 ARKANSAS            78 
